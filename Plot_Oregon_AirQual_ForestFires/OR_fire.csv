@@ -1,0 +1,903 @@
+Fire Year,District,Unit,Fire Number,Fire Name,Legal,Fuel Model,County,Report Date,General Cause,ODF Acres,Total Acres
+2020,51 - Tillamook,Tillamook,1,BILLBOARD FIRE,T1S R9W S28 NWNW,A,Tillamook,7/16/20 14:45,Debris Burning,0,0.1
+2020,51 - Tillamook,Tillamook,34,MILEPOST 10 FIRE,T1S R8W S9 NWNE,L,Tillamook,7/27/20 13:08,Equipment Use,0.01,0.01
+2020,51 - Tillamook,Tillamook,38,DERRICK ROAD FIRE,T3S R10W S17 NWSW,A,Tillamook,8/1/20 15:14,Equipment Use,0.08,0.08
+2020,51 - Tillamook,Tillamook,53,32315 BOULDER FIRE,T2N R9W S6 SWNW,H,Tillamook,8/14/20 16:43,Equipment Use,0.23,0.23
+2020,51 - Tillamook,Tillamook,68,HWY 6 BOAT FIRE,T1N R7W S2 NWSE,X,Tillamook,9/6/20 16:00,Equipment Use,0.08,0.08
+2020,51 - Tillamook,Tillamook,69,Pike Road,T1S R10W S1,,Tillamook,9/7/20 22:00,Under Invest,301,301
+2020,51 - Tillamook,Tillamook,70,Blimp Base,T2S R9W S9 SENW,L,Tillamook,9/7/20 22:00,Equipment Use,9,9
+2020,51 - Tillamook,Tillamook,71,HWY 6 MP 7,T1S R8W S18 NENE,H,Tillamook,9/9/20 18:36,Equipment Use,0.76,0.76
+2020,52 - Astoria,Astoria,1,Windy Ridge,T8N R6W S7 SESE,K,Clatsop,7/1/20 17:05,Juveniles,0.75,0.75
+2020,52 - Astoria,Astoria,5,Mire 2.0,T8N R9W S27 NWSW,X,Clatsop,7/8/20 14:41,Debris Burning,0,0.01
+2020,52 - Astoria,Astoria,7,Bug Hole Fire,T9N R7W S34 SWNW,L,Clatsop,7/10/20 12:30,Debris Burning,0,0.8
+2020,52 - Astoria,Astoria,12,Rusty Hatchet Fire,T8N R7W S21 NENW,H,Clatsop,7/21/20 16:54,Recreationist,0,0.01
+2020,52 - Astoria,Astoria,13,Gamagoat,T8N R10W S32 SESE,F,Clatsop,7/25/20 14:00,Recreationist,0.53,0.53
+2020,52 - Astoria,Astoria,14,The Good Fire,T8N R10W S27 SENW,H,Clatsop,7/27/20 13:00,Debris Burning,0,0.01
+2020,52 - Astoria,Astoria,15,Thousand Gallons,T6N R10W S3 SWNE,L,Clatsop,7/27/20 19:00,Debris Burning,0,0.01
+2020,52 - Astoria,Astoria,30,THE DOUBLE TAKE,T9N R11W S35 NENE,U,Clatsop,8/16/20 13:30,Recreationist,0,0.01
+2020,52 - Astoria,Astoria,31,Cascara Fire,T5N R9W S20 NENW,F,Clatsop,8/17/20 13:15,Recreationist,0,0.01
+2020,52 - Astoria,Astoria,35,Dike Fire,T8N R10W S5 SESE,F,Clatsop,8/20/20 8:00,Recreationist,0,0.01
+2020,52 - Astoria,Astoria,47,Lost Lake 4,T4N R7W S17 NWNW,X,Clatsop,9/6/20 21:00,Recreationist,0.01,0.01
+2020,52 - Astoria,Astoria,54,Pope-Meeker,T5N R7W S33 NESW,L,Clatsop,9/7/20 23:45,Juveniles,0.01,0.01
+2020,52 - Astoria,Astoria,59,Wireless Road,T8N R9W S20 NWSE,X,Clatsop,9/9/20 6:40,Debris Burning,0,0.01
+2020,52 - Astoria,Astoria,65,OSTER RD PILE,T6N R10W S10 NENE,H,Clatsop,9/11/20 13:30,Debris Burning,0.01,0.01
+2020,52 - Astoria,Astoria,67,Black Iredale,T8N R10W S18 NENW,L,Clatsop,3/15/20 19:45,Smoking,0.64,0.64
+2020,52 - Astoria,Astoria,72,Wrong Turn Burn,T5N R10W S10 NESE,X,Clatsop,9/24/20 13:45,Debris Burning,0,0.01
+2020,52 - Astoria,Astoria,85,Last Minute,T7N R8W S8 SESW,I,Clatsop,10/14/20 15:35,Recreationist,0.01,0.01
+2020,53 - Forest Grove,Forest Grove,1,N Fork Wolk Creek Fire,T4N R6W S36 NWSW,J,Clatsop,7/7/20 7:45,Recreationist,0.25,0.25
+2020,53 - Forest Grove,Columbia City,1,Colvin Road #1,T7N R5W S2 SESE,X,Columbia,7/14/20 16:37,Debris Burning,0.01,0.01
+2020,53 - Forest Grove,Forest Grove,2,Parsons Road Fire,T2N R4W S19 SWNE,,Washington,7/14/20 15:15,No Fire,0.43,0.43
+2020,53 - Forest Grove,Columbia City,2,Otto Miller Rd. #1,T3N R2W S13 SESE,K,Washington,7/20/20 7:42,Recreationist,0.01,0.01
+2020,53 - Forest Grove,Forest Grove,3,Gopher Valley/Grauer Roa,T5S R6W S24 NWNW,,Yamhill,7/15/20 17:47,Debris Burning,0.25,
+2020,53 - Forest Grove,Forest Grove,4,Adea Pile,T2S R4W S12 SESW,K,Yamhill,7/15/20 19:12,Debris Burning,0.1,0.1
+2020,53 - Forest Grove,Columbia City,4,Robinette Road #1,T5N R1W S31 SWNE,,Columbia,7/21/20 18:44,Under Invest,0,
+2020,53 - Forest Grove,Forest Grove,6,Hoffman Road Fire,T3N R4W S9 SWSW,,Washington,7/16/20 20:54,Equipment Use,0.1,0.1
+2020,53 - Forest Grove,Forest Grove,8,High Heaven,T3S R5W S32 SWNW,H,Yamhill,7/20/20 19:01,Miscellaneous,0.25,0.25
+2020,53 - Forest Grove,Forest Grove,12,Reservoir Road Fire,T2S R4W S30 SWSE,,Yamhill,7/30/20 11:10,Smoking,0.5,
+2020,53 - Forest Grove,Columbia City,12,Crosby Road #1,T5N R2W S34 NESE,,Columbia,8/4/20 16:10,Miscellaneous,0.1,
+2020,53 - Forest Grove,Forest Grove,14,Timber Road Mulch Fire,T3N R5W S27 SWSE,,Washington,8/2/20 7:26,Debris Burning,0.25,
+2020,53 - Forest Grove,Columbia City,14,"Hwy 30, MP 33",T5N R1W S17,,Columbia,8/5/20 14:45,Equipment Use,0.01,
+2020,53 - Forest Grove,Forest Grove,20,Latham Road Field Fire,T5S R5W S30 NENE,,Yamhill,8/14/20 10:39,Equipment Use,1,
+2020,53 - Forest Grove,Columbia City,22,Hwy 30/Justin Way,T7N R3W S18 NWNE,,Columbia,8/26/20 15:25,Under Invest,0,
+2020,53 - Forest Grove,Forest Grove,24,Siedelman Road Fire,T3N R4W S5 NWNE,J,Washington,8/16/20 9:16,Under Invest,2,
+2020,53 - Forest Grove,Forest Grove,26,Kiacut Road Truck Fire,T2S R4W S4 NESE,A,Yamhill,8/22/20 16:59,Equipment Use,0.1,0.1
+2020,53 - Forest Grove,Forest Grove,26,Kinney Creek Fire,T2N R6W S5 NENW,J,Washington,4/14/20 14:52,Equipment Use,7,7
+2020,53 - Forest Grove,Forest Grove,28,Murphy Slash,T2N R3W S19 SESE,,Washington,5/29/20 17:28,Debris Burning,1,
+2020,53 - Forest Grove,Forest Grove,29,Wiley Road Fire,T5S R6W S14 SESW,A,Yamhill,8/27/20 13:39,Equipment Use,0.05,0.05
+2020,53 - Forest Grove,Columbia City,32,Hwy 30 Alston Mayger,T7N R3W S9 SWSE,A,Columbia,9/7/20 13:32,Equipment Use,1,1
+2020,53 - Forest Grove,Forest Grove,39,N Fork Landing Burn,T4N R6W S36 NWSW,,,9/8/20 9:03,Miscellaneous,0,
+2020,53 - Forest Grove,Columbia City,39,Pittsburg/Gensman Roads,T5N R2W S35 NWNE,,Columbia,9/7/20 23:35,Miscellaneous,0.25,
+2020,53 - Forest Grove,Forest Grove,40,Peavine,T4S R5W S22 NESE,F,Yamhill,9/8/20 11:00,Equipment Use,0,0.1
+2020,53 - Forest Grove,Columbia City,43,Pisgah Home Rd. #1,,,Columbia,9/8/20 17:16,Under Invest,0.25,0.25
+2020,53 - Forest Grove,Forest Grove,48,Gopher Valley Lightning,T4S R6W S22 SENE,K,Yamhill,9/18/20 9:24,Lightning,0.1,0.1
+2020,53 - Forest Grove,Forest Grove,49,Powerline Lightning N,T3N R3W S3 NWSW,K,Washington,9/19/20 9:05,Lightning,0.01,0.01
+2020,53 - Forest Grove,Columbia City,49,Nehalem Hwy N #2,T5N R4W S11 NWSW,F,Columbia,3/20/20 16:05,Debris Burning,0.25,0.25
+2020,53 - Forest Grove,Forest Grove,50,NL210 Rd Positive Strike,T1N R4W S32 SESE,,Washington,9/19/20 16:30,Lightning,0.1,
+2020,53 - Forest Grove,Columbia City,50,Clark Road #1,T6N R3W S24 NWNE,J,Columbia,5/1/20 19:05,Miscellaneous,0.2,0.2
+2020,53 - Forest Grove,Columbia City,52,Olson Road #1,T7N R4W S16 NESW,J,Columbia,5/9/20 14:52,Debris Burning,0.25,0.25
+2020,53 - Forest Grove,Columbia City,56,Chapman Grange #1,T4N R3W S25 NWNW,,Columbia,9/29/20 19:18,Debris Burning,0.01,
+2020,55 - Western Oregon,Toledo,1,MP 18,T9S R10W S15 NWNE,X,Lincoln,7/17/20 19:00,Arson,0,0
+2020,55 - Western Oregon,Philomath,2,Powerline,T14S R8W S8 NESE,F,Benton,7/12/20 16:56,Equipment Use,0.26,0.26
+2020,55 - Western Oregon,Toledo,2,Hwy 229 Fire,T9S R10W S7 SWNW,H,Lincoln,7/22/20 11:32,Debris Burning,0.01,0.01
+2020,55 - Western Oregon,Dallas,5,Mill Cr Blanket,T7S R6W S9 NWNW,F,Polk,7/25/20 18:34,Recreationist,0.01,0.01
+2020,55 - Western Oregon,Toledo,5,William Cr.,T10S R9W S1 NENW,X,Lincoln,8/11/20 9:00,Equipment Use,0.01,0.01
+2020,55 - Western Oregon,Philomath,6,Harris,T11S R6W S28 SWSW,L,Benton,7/26/20 17:00,Debris Burning,0.18,0.18
+2020,55 - Western Oregon,Dallas,6,Willamina Cliff,T6S R7W S1 SENW,C,Yamhill,7/26/20 14:31,Equipment Use,0.4,0.4
+2020,55 - Western Oregon,Philomath,7,Bunker Hill,T13S R6W S34 SESE,L,Benton,8/5/20 19:27,Equipment Use,0.01,0.01
+2020,55 - Western Oregon,Dallas,10,Tarter Rd,T9S R6W S25 NWSW,G,Polk,8/9/20 15:49,Equipment Use,0.39,0.39
+2020,55 - Western Oregon,Dallas,11,Limestone,T8S R6W S13 NWSW,L,Polk,8/9/20 17:13,Equipment Use,0.01,0.01
+2020,55 - Western Oregon,Dallas,12,18 Valley,T6S R7W S9 SWSW,L,Polk,8/11/20 16:14,Equipment Use,0.39,0.39
+2020,55 - Western Oregon,Toledo,12,South Drift Cr. Rd.,T8S R11W S12 NWNW,J,Lincoln,8/27/20 15:59,Recreationist,0.1,0.1
+2020,55 - Western Oregon,Dallas,13,Rob Mill,T7S R6W S26 NESE,H,Polk,8/15/20 15:54,Equipment Use,0.15,0.15
+2020,55 - Western Oregon,Dallas,14,Live Wire,T6S R7W S8 SENW,R,Polk,8/15/20 17:47,Equipment Use,0.01,0.01
+2020,55 - Western Oregon,Toledo,17,Alsea River Fire,T14S R9W S5 SESW,L,Lincoln,3/18/20 17:00,Debris Burning,1.8,1.8
+2020,55 - Western Oregon,Toledo,17,Salmon River MP 4,T6S R10W S34 SWSW,H,Lincoln,9/7/20 23:02,Equipment Use,0,0.01
+2020,55 - Western Oregon,Philomath,18,Wells Corners,T13S R7W S1 NENE,H,Benton,9/7/20 14:25,Recreationist,0.01,0.01
+2020,55 - Western Oregon,Toledo,18,Echo Mountain,T6S R10W S34 NWNW,H,Lincoln,9/7/20 23:43,Under Invest,1246.94,1879.01
+2020,55 - Western Oregon,Toledo,19,Kimberling Mt,T6S R9W S30 SWNE,H,Lincoln,9/8/20 0:44,Under Invest,279.66,281.75
+2020,55 - Western Oregon,Toledo,20,Terrace,T13S R11W S27 SENE,H,Lane,9/8/20 1:10,Equipment Use,0.3,0.3
+2020,55 - Western Oregon,Philomath,22,Yew Cr.,T13S R7W S15 NESW,H,Benton,9/7/20 21:22,Equipment Use,2,2
+2020,55 - Western Oregon,Dallas,22,Mill Cr. Park,T7S R6W S4 SWSE,H,Polk,9/8/20 16:17,Recreationist,4.5,4.5
+2020,55 - Western Oregon,Dallas,23,Hidden Ranch 2,T8S R6W S12 SESE,A,Polk,9/9/20 16:00,Under Invest,0.01,0.01
+2020,55 - Western Oregon,Philomath,25,Foster Rd,T14S R6W S14 SENE,L,Benton,9/9/20 20:56,Miscellaneous,0.01,0.01
+2020,55 - Western Oregon,Philomath,28,County Line Strike,T10S R6W S8 SENW,H,Benton,9/19/20 5:52,Lightning,0.02,0.02
+2020,58 - North Cascade,Molalla,1,Wildcat,T6S R1E S2 SENW,L,Clackamas,7/16/20 13:50,Equipment Use,3,3
+2020,58 - North Cascade,Santiam,2,McCoy Creek,T10S R7E S7 SENW,J,Marion,7/11/20 14:50,Recreationist,2.5,2.5
+2020,58 - North Cascade,Santiam,3,Diane Rd,T6S R2E S31 SESW,L,Marion,7/16/20 13:45,Miscellaneous,0.5,0.5
+2020,58 - North Cascade,Molalla,5,Barlow Trail,T2S R7E S19 SWSW,F,Clackamas,7/20/20 14:45,Equipment Use,0.1,0.1
+2020,58 - North Cascade,Molalla,6,Starr Rd Fire,T3S R3E S12 SWSW,X,Clackamas,7/21/20 12:00,Debris Burning,0.01,0.01
+2020,58 - North Cascade,Santiam,7,Old Rusty Fire,T9S R1W S12 NESE,F,Marion,7/21/20 12:30,Debris Burning,0.2,0.2
+2020,58 - North Cascade,Santiam,9,Silver Fork,T8S R2E S7 SESE,J,Marion,7/21/20 13:45,Debris Burning,0.1,0.1
+2020,58 - North Cascade,Santiam,11,Pioneer Fire,T9S R2E S22 SWNE,F,Marion,7/27/20 14:15,Equipment Use,0.1,0.1
+2020,58 - North Cascade,Molalla,16,Clear Creek,T2S R7E S27 NWSE,H,Clackamas,7/31/20 13:35,Under Invest,0.1,0.1
+2020,58 - North Cascade,Santiam,18,Little Rock Fire,T10S R3E S1 SWSW,,Linn,8/11/20 17:35,Under Invest,0.25,
+2020,58 - North Cascade,Molalla,21,Clark Park Fire,T5S R2E S9 NENE,L,Clackamas,8/11/20 12:36,Smoking,0.01,0.01
+2020,58 - North Cascade,Santiam,21,Mill Fire,T9S R2E S20 SWSW,,Linn,8/27/20 14:20,Miscellaneous,0.05,
+2020,58 - North Cascade,Santiam,22,Evans Mnt. Campfire,T8S R4E S29 SENW,,Marion,8/28/20 12:53,Recreationist,0.01,
+2020,58 - North Cascade,Molalla,23,oz Pit Fire,T5S R4E S12 NWSE,K,Clackamas,8/13/20 13:00,Recreationist,0.01,0.01
+2020,58 - North Cascade,Santiam,23,Rock Creek Campfire,T10S R3E S4,,Linn,8/29/20 11:49,Recreationist,0.01,
+2020,58 - North Cascade,Molalla,24,Skinner Pile,T4S R5E S10 NWSW,J,Clackamas,8/15/20 14:45,Miscellaneous,0.01,0.01
+2020,58 - North Cascade,Molalla,25,Valley Vista,T4S R3E S31 NWNW,H,Clackamas,8/16/20 16:15,Miscellaneous,0.01,0.01
+2020,58 - North Cascade,Molalla,27,Dover Ct,T2S R5E S31 SWSE,,Clackamas,8/19/20 17:42,Debris Burning,0.1,
+2020,58 - North Cascade,Molalla,28,Kowall Grass Fire,T3S R5E S18 NWSW,L,Clackamas,8/23/20 13:00,Miscellaneous,2.25,2.25
+2020,58 - North Cascade,Molalla,30,Baty Rd. Fire,T2S R5E S23 NWNE,,Clackamas,8/28/20 17:40,Debris Burning,0.01,
+2020,58 - North Cascade,Molalla,33,Pine Creek,T6S R3E S30 NWSW,,Clackamas,9/2/20 11:30,Under Invest,2,
+2020,58 - North Cascade,Molalla,34,Comer Coop,T5S R1E S35 NWSE,,Clackamas,9/5/20 14:00,Miscellaneous,,
+2020,58 - North Cascade,Molalla,37,BC 316 Pile,T7S R3E S30 SENW,,Clackamas,9/6/20 14:20,Debris Burning,0.01,
+2020,58 - North Cascade,Molalla,38,Powerline Smoke,T6S R3E S6 NWNE,,Clackamas,9/7/20 15:00,Miscellaneous,0.01,
+2020,58 - North Cascade,Molalla,40,Unger Rd,T4S R3E S23 SWSW,,Clackamas,9/7/20 23:00,Miscellaneous,5,
+2020,58 - North Cascade,Molalla,41,Wilhoit,T6S R2E S8 NESW,,Clackamas,9/7/20 14:00,Miscellaneous,200,
+2020,58 - North Cascade,Molalla,42,Riverside (ODF),T6S R6E S15 SWSE,,Clackamas,9/7/20 19:12,Miscellaneous,7,
+2020,71 - Southwest,Medford,2,Old Stage Rd 9804,T36S R3W S22 NENW,A,Jackson,7/1/20 13:37,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,2,Slate Creek 960,T37S R7W S18 SENW,A,Josephine,7/1/20 17:27,Equipment Use,0.67,0.67
+2020,71 - Southwest,Medford,3,Conley Springs,T33S R3E S3 SESE,K,Jackson,7/1/20 14:05,Recreationist,0.1,0.1
+2020,71 - Southwest,Grants Pass,6,PP-B10125/New Hope 6700,T37S R6W S24 NWNW,A,Josephine,7/3/20 18:24,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,11,Agate Rd,T36S R1W S5 SWNW,A,Jackson,7/4/20 22:02,Recreationist,0.25,0.25
+2020,71 - Southwest,Grants Pass,11,Reel Lane 100,T36S R6W S34 NWNE,L,Josephine,7/4/20 21:59,Recreationist,0.01,0.01
+2020,71 - Southwest,Grants Pass,12,Lenella Ln 510,T36S R5W S15 NWNW,A,Josephine,7/4/20 22:57,Recreationist,0.01,0.01
+2020,71 - Southwest,Medford,17,N De Anjou Ave,T35S R1W S34 SESW,A,Jackson,7/7/20 19:06,Recreationist,0,0.1
+2020,71 - Southwest,Medford,20,Hyatt Prairie Road,T39S R3E S16 SENE,X,Jackson,7/7/20 13:17,Recreationist,0.01,0.01
+2020,71 - Southwest,Medford,21,Agate Road 10995,T36S R1W S5 NWNW,A,Jackson,7/8/20 17:45,Debris Burning,0.25,0.25
+2020,71 - Southwest,Grants Pass,22,Placer Road 3562,T34S R5W S8 SENE,A,Josephine,7/8/20 18:45,Equipment Use,1.2,1.2
+2020,71 - Southwest,Medford,31,Hwy 140 MM 25.5,T36S R3E S36 SESE,A,Jackson,7/13/20 17:25,Equipment Use,0.1,0.1
+2020,71 - Southwest,Grants Pass,32,Brookside Blvd 457,T35S R6W S26 SENW,A,Josephine,7/11/20 11:57,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,33,HWY 140 MM 26,T37S R3E S6 NENE,A,Jackson,7/15/20 8:41,Equipment Use,0,0.01
+2020,71 - Southwest,Medford,36,Hwy 140 mm 20,T36S R3E S31 NWSE,K,Jackson,7/15/20 16:35,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,37,Emigrant Creek,T39S R2E S20 NESW,A,Jackson,7/15/20 19:40,Smoking,0.25,0.25
+2020,71 - Southwest,Medford,38,Tolo Rd 5325,T36S R2W S32 NESW,A,Jackson,7/13/20 3:25,Equipment Use,0.25,0.25
+2020,71 - Southwest,Medford,39,Shady Brook Dr 6344,T36S R2W S29 NWSW,A,Jackson,7/16/20 10:27,Equipment Use,0.5,0.5
+2020,71 - Southwest,Medford,40,Arnold Ln 1475,T37S R2W S34 NWSW,A,Jackson,7/16/20 18:05,Debris Burning,0,0.1
+2020,71 - Southwest,Medford,41,HWY 62 20975,T34S R1W S21 NENE,A,Jackson,7/17/20 21:37,Smoking,0,0.01
+2020,71 - Southwest,Grants Pass,42,Jonathan St 143,T35S R6W S22 SWNW,A,Josephine,7/13/20 20:36,Debris Burning,0.25,0.25
+2020,71 - Southwest,Medford,43,Griffin Creek Rd 4442,T38S R2W S15 NENE,C,Jackson,7/17/20 15:34,Juveniles,4,4
+2020,71 - Southwest,Medford,48,Memorial,T38S R2E S27 NESW,R,Jackson,7/19/20 13:18,Equipment Use,61,61
+2020,71 - Southwest,Medford,49,Robleda Dr 255,T35S R2W S28 NWSW,A,Jackson,7/19/20 15:45,Miscellaneous,0.1,0.1
+2020,71 - Southwest,Grants Pass,50,PPD3877 White School Rd,T39S R8W S36 NENW,A,Josephine,7/14/20 18:52,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,51,Steam Beer Mine,T34S R6W S6 SWNE,F,Josephine,7/15/20 5:33,Smoking,2,2
+2020,71 - Southwest,Grants Pass,52,Finch Road #6,T39S R8W S9 NWNW,F,Josephine,7/15/20 8:56,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Medford,53,HWY 62 MP 8,T36S R1W S16 NENW,A,Jackson,7/21/20 17:40,Equipment Use,0,0.25
+2020,71 - Southwest,Grants Pass,53,Panther Gulch 1100,T39S R5W S2 NESE,A,Josephine,7/15/20 12:40,Equipment Use,0.63,0.63
+2020,71 - Southwest,Grants Pass,54,Leaning Pine 121,T35S R6W S15 NESE,A,Josephine,7/15/20 12:52,Smoking,0.1,0.1
+2020,71 - Southwest,Grants Pass,62,PP-354800/Plumtree,T35S R6W S35 NENW,C,Josephine,7/16/20 19:57,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,63,PP-15-7/Camp Joy,T35S R6W S25 SESW,A,Josephine,7/17/20 11:24,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,74,Upper River Rd 1777,T36S R3W S10 NESE,C,Jackson,7/26/20 17:28,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,79,Obenchain,T35S R1E S26 NWSE,A,Jackson,7/26/20 23:10,Lightning,0.3,0.3
+2020,71 - Southwest,Medford,80,S. Fork Clarks Creek,T34S R2E S1 NWSW,C,Jackson,7/27/20 6:48,Lightning,0.3,0.3
+2020,71 - Southwest,Medford,81,I5 MM 9,T40S R2E S6 SENE,A,Jackson,7/27/20 7:12,Equipment Use,0,0.01
+2020,71 - Southwest,Medford,83,Dudley Mountain,T34S R2E S1 SWNW,C,Jackson,7/27/20 10:12,Lightning,0.1,0.1
+2020,71 - Southwest,Medford,84,Dudley Two,T34S R2E S2 SWNW,F,Jackson,7/27/20 10:38,Lightning,0.1,0.1
+2020,71 - Southwest,Medford,85,Jenny Creek,T48N R5W S14 SESE,K,Other St.,7/27/20 13:31,Lightning,13,13
+2020,71 - Southwest,Grants Pass,86,Redwood Hwy 23121,T38S R8W S33 SWSE,A,Josephine,7/20/20 11:03,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Medford,87,Butte Falls Hwy MM 11,T34S R1E S36 SWNE,A,Jackson,7/27/20 17:28,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,90,Kerby Mainline,T39S R8W S3 SENE,B,Josephine,7/20/20 18:38,Miscellaneous,0.1,0.1
+2020,71 - Southwest,Grants Pass,91,Kerby Mainline #2,T39S R8W S2 SENW,K,Josephine,7/20/20 19:13,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,98,HWY 62 MM 26,T33S R1W S36 SWNW,A,Jackson,7/29/20 23:18,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,99,Tolo Road 6687,T36S R2W S29 NENW,A,Jackson,7/29/20 15:45,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Medford,102,Worthington,T35S R1E S21 NWNW,C,Jackson,7/30/20 15:18,Lightning,761,761
+2020,71 - Southwest,Grants Pass,104,Gunnell Rd 248,T36S R7W S12 SESE,A,Josephine,7/23/20 12:18,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,109,NB I5 MP 59.5,T36S R5W S6 NENW,X,Josephine,7/24/20 9:08,Under Invest,0.01,0.01
+2020,71 - Southwest,Medford,111,Upper Applegate,T40S R3W S8 NENW,L,Jackson,8/1/20 11:15,Equipment Use,2.2,2.2
+2020,71 - Southwest,Medford,114,Meadows School,T34S R2W S20 SESE,H,Jackson,8/1/20 15:30,Smoking,0.1,0.1
+2020,71 - Southwest,Grants Pass,115,Allen Creek 2444,T36S R6W S25 NWSE,H,Josephine,7/24/20 20:15,Juveniles,0.01,0.01
+2020,71 - Southwest,Grants Pass,117,Jack Creek Rd,T34S R5W S22 SESW,A,Josephine,7/25/20 2:18,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,119,Foothill Blvd,T36S R5W S14 NWSW,A,Josephine,7/25/20 12:42,Equipment Use,0.76,0.76
+2020,71 - Southwest,Medford,123,I 5 SB MM 11 Off Ramp,T39S R1E S25 NWNE,X,Jackson,8/2/20 19:12,Equipment Use,0,0
+2020,71 - Southwest,Medford,125,Little Applegate 2644,T39S R3W S13 NWSE,C,Jackson,8/3/20 19:01,Smoking,0.1,0.1
+2020,71 - Southwest,Grants Pass,125,I-5 MP 71,T34S R6W S11 NWSW,C,Josephine,7/26/20 6:25,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Grants Pass,137,N Applegate Rd 10199,T37S R5W S27 SENW,A,Josephine,7/27/20 15:33,Equipment Use,0.27,0.27
+2020,71 - Southwest,Medford,140,Old Stage Rd 4400,T37S R2W S5 SENW,A,Jackson,8/9/20 11:32,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,141,Azalea Dr,T35S R6W S33 NWSW,C,Josephine,7/27/20 20:46,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Grants Pass,142,Azalea Dr #2,T35S R6W S33 NWSW,C,Josephine,7/27/20 20:46,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,143,Azalea Dr #3,T35S R6W S33 SESW,C,Josephine,7/27/20 20:46,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,146,Hidden Valley Ln 200,T35S R4W S34 SENE,C,Josephine,7/28/20 9:02,Smoking,0.01,0.01
+2020,71 - Southwest,Medford,148,Conestoga,T37S R2W S32 NESW,C,Jackson,8/10/20 14:18,Miscellaneous,1,1
+2020,71 - Southwest,Medford,150,Elk Creek Road MM 12,T32S R1E S13 NWSE,,Jackson,8/11/20 17:21,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,157,Lampman Rd 2254,T36S R3W S17 SWSE,R,Jackson,8/13/20 19:19,Smoking,0,0.01
+2020,71 - Southwest,Grants Pass,158,Holland Loop 4055,T40S R8W S1 NWNW,A,Josephine,7/29/20 15:31,Equipment Use,0.47,0.47
+2020,71 - Southwest,Grants Pass,160,Merlin Rd 450,T35S R6W S21 SENW,C,Josephine,7/29/20 17:15,Smoking,0.01,0.01
+2020,71 - Southwest,Medford,163,Steinmetz Creek,T33S R3W S18 NWSW,H,Jackson,8/14/20 22:00,Equipment Use,0.25,0.25
+2020,71 - Southwest,Medford,164,PP#01339 Upper Applegate,T39S R3W S10 SESW,F,Jackson,8/15/20 4:22,Equipment Use,0.5,0.5
+2020,71 - Southwest,Medford,165,Pilot Rock,T40S R2E S34 SWSE,C,Jackson,8/15/20 6:00,Recreationist,0.5,0.5
+2020,71 - Southwest,Grants Pass,166,Cloverlawn Dr 5375,T37S R5W S8 NWSW,C,Josephine,7/30/20 16:18,Equipment Use,0.1,0.1
+2020,71 - Southwest,Medford,178,N Foothill Rd 2450,T37S R1W S16 NWSE,A,Jackson,8/18/20 15:34,Equipment Use,0,0.01
+2020,71 - Southwest,Grants Pass,179,Camp Creek,T38S R7W S21 SESE,K,Josephine,8/1/20 14:04,Equipment Use,0.08,0.08
+2020,71 - Southwest,Grants Pass,184,I-5 NB MP 78,T33S R6W S12 SWSW,A,Josephine,8/2/20 12:46,Equipment Use,0.1,0.1
+2020,71 - Southwest,Grants Pass,185,Redwood Hwy 10880,T37S R7W S10 SWSW,A,Josephine,8/2/20 19:09,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Medford,186,Knowles Rd 1940,T38S R2W S4 NWNE,A,Jackson,8/21/20 13:24,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,189,Upper River Rd 1275,T36S R3W S15 NWSE,,Jackson,8/21/20 20:15,Under Invest,0.1,
+2020,71 - Southwest,Medford,195,Lost Creek,T33S R2E S31 SENW,B,Jackson,8/22/20 17:22,Recreationist,0.25,0.25
+2020,71 - Southwest,Medford,197,Glen Echo 4750,T37S R3W S1 NENE,A,Jackson,8/22/20 23:25,Miscellaneous,0.1,0.1
+2020,71 - Southwest,Medford,198,Fish Lake Rd 5170,T35S R3E S19 NWSE,B,Jackson,8/23/20 3:47,Miscellaneous,0.25,0.25
+2020,71 - Southwest,Grants Pass,202,SB 15 MP 54.5,T36S R5W S15 NESE,A,Josephine,8/5/20 9:50,Equipment Use,0.38,0.38
+2020,71 - Southwest,Medford,203,Denman Reserve,T36S R2W S12 NESE,F,Jackson,8/24/20 13:21,Recreationist,0.25,0.25
+2020,71 - Southwest,Medford,204,HWY 238 MM 25,T38S R3W S28 NESE,A,Jackson,8/24/20 14:20,Equipment Use,0,0.01
+2020,71 - Southwest,Grants Pass,207,Monument Dr 5484,T35S R6W S26 SWNE,A,Josephine,8/5/20 17:15,Equipment Use,0.1,0.1
+2020,71 - Southwest,Medford,208,Hwy 140 MM 10,T36S R1E S10 SWNE,,Jackson,8/26/20 5:10,Debris Burning,0.25,
+2020,71 - Southwest,Grants Pass,211,PP-B13134/Waters Crk,T37S R7W S8 SENW,C,Josephine,8/6/20 16:23,Equipment Use,0.17,0.17
+2020,71 - Southwest,Grants Pass,212,Lower River 11905,T35S R7W S25 SESW,U,Josephine,8/6/20 18:06,Juveniles,0.04,0.04
+2020,71 - Southwest,Grants Pass,213,Pearce Park 3700,T36S R5W S22 SENW,R,Josephine,8/6/20 18:27,Smoking,0.01,0.01
+2020,71 - Southwest,Grants Pass,218,S Redwood Hwy 330,T39S R8W S21 SWNE,A,Josephine,8/7/20 11:49,Smoking,0.01,0.01
+2020,71 - Southwest,Medford,221,Hwy 234 1577 PP#5248,T35S R1W S17 NESW,,Jackson,8/30/20 19:56,Equipment Use,0.1,
+2020,71 - Southwest,Grants Pass,224,Millie St 233,T39S R8W S16 SWSE,L,Josephine,8/8/20 18:16,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Medford,227,Sterling Creek Rd 2345,T38S R2W S18 SWNE,C,Jackson,8/31/20 23:20,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Grants Pass,233,White School House 1770,T39S R8W S25 SESE,R,Josephine,8/10/20 10:01,Smoking,0.01,0.01
+2020,71 - Southwest,Medford,236,Meadows,T35S R2W S4 SWNW,,Jackson,9/4/20 2:48,Equipment Use,5,
+2020,71 - Southwest,Medford,238,Grizzly Creek,T38S R3E S12 SWSE,,Jackson,9/4/20 14:11,Under Invest,323,323
+2020,71 - Southwest,Medford,245,Tolo Rd 6755 #1,T36S R2W S29 NWNE,X,Jackson,9/6/20 18:03,Debris Burning,0,0
+2020,71 - Southwest,Medford,248,Old Stage 4770,T37S R2W S6 NENE,X,Jackson,9/7/20 12:58,Miscellaneous,0,0
+2020,71 - Southwest,Medford,249,Climax,T38S R2E S6 NWNW,L,Jackson,9/7/20 14:25,Equipment Use,3,3
+2020,71 - Southwest,Grants Pass,251,Kerby Mainline #3,T38S R8W S35 SWSW,X,Josephine,8/12/20 0:22,Debris Burning,0.01,0.01
+2020,71 - Southwest,Medford,266,S. Obenchain,T35S R1E S34 SESE,,Jackson,9/8/20 13:49,Under Invest,32589,32589
+2020,71 - Southwest,Grants Pass,267,N Sawyer Ave 390,T39S R8W S16 SWSE,H,Josephine,8/13/20 12:57,Recreationist,0.01,0.01
+2020,71 - Southwest,Grants Pass,271,Kerby Well,T38S R8W S34 NESE,R,Josephine,8/10/20 12:16,Debris Burning,0.01,0.01
+2020,71 - Southwest,Grants Pass,287,Graves Creek,T33S R4W S29 NWSW,H,Jackson,8/16/20 16:38,Equipment Use,2.1,2.1
+2020,71 - Southwest,Medford,293,Owens Spring,T38S R3E S12 NESE,A,Jackson,9/13/20 9:00,Under Invest,0.01,0.01
+2020,71 - Southwest,Grants Pass,293,Golf Course,T39S R8W S16 SWNE,A,Josephine,8/17/20 14:51,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Medford,295,Waters Gulch,T40S R2W S8 NWNE,R,Jackson,9/13/20 17:10,Debris Burning,1,1
+2020,71 - Southwest,Medford,296,Wall Creek,T32S R1W S31 SWSE,,Jackson,9/15/20 13:35,Under Invest,0.5,
+2020,71 - Southwest,Medford,297,Flounce Rock,T33S R2E S17 NESW,,Jackson,9/15/20 18:40,Equipment Use,0.01,
+2020,71 - Southwest,Medford,303,Antioch Rd 14853,T35S R2W S14 NESW,A,Jackson,9/16/20 0:13,Smoking,0.1,0.1
+2020,71 - Southwest,Grants Pass,304,Nelson Way 310,T35S R5W S30 NWNE,A,Josephine,8/19/20 10:33,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,305,Finch Road #7,T39S R8W S9 NWNW,F,Josephine,8/19/20 14:20,Arson,0.08,0.08
+2020,71 - Southwest,Medford,309,Antioch Rd 16142 PP#B127,T35S R2W S11 NWSW,,Jackson,9/17/20 15:38,Equipment Use,0.01,
+2020,71 - Southwest,Grants Pass,314,Williams Hwy Wayside,T37S R5W S20 SENE,R,Josephine,8/20/20 16:03,Smoking,0.01,0.01
+2020,71 - Southwest,Grants Pass,321,Westside Rd,T39S R8W S8 SWNE,A,Josephine,8/21/20 16:33,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,330,Yale Creek Rd 3000,T40S R2W S4 SENE,C,Jackson,9/23/20 15:14,Equipment Use,0.5,0.5
+2020,71 - Southwest,Medford,342,Lost Creek,T36S R2E S33 SESE,C,Jackson,9/28/20 15:20,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,352,Valley of the Rogue,T36S R4W S27 SWNE,A,Jackson,8/25/20 12:04,Arson,0.39,0.39
+2020,71 - Southwest,Grants Pass,355,Valley of the Rogue #2,T36S R4W S27 NWNE,A,Jackson,8/25/20 18:56,Arson,0.25,0.25
+2020,71 - Southwest,Medford,358,Trail Creek,T33S R1W S29 NESW,C,Jackson,2/19/20 19:45,Recreationist,0.25,0.25
+2020,71 - Southwest,Medford,359,Corp Ranch Rd 11260,T39S R2E S19 NESE,A,Jackson,3/5/20 12:13,Debris Burning,0.1,0.1
+2020,71 - Southwest,Medford,360,E Antelope Rd 5039,T36S R1E S32 SWSE,A,Jackson,3/5/20 14:44,Debris Burning,1,1
+2020,71 - Southwest,Medford,361,S Fork Little Butte CK 5,T37S R2E S3 NWNW,C,Jackson,3/5/20 19:57,Debris Burning,0.5,0.5
+2020,71 - Southwest,Medford,364,Galls Creek,T37S R3W S9 SWNE,X,Jackson,3/10/20 11:48,Recreationist,0.01,0.01
+2020,71 - Southwest,Medford,365,Tolo Rd 6755,T36S R2W S29 NWNE,X,Jackson,10/11/20 11:45,Debris Burning,0.01,0.01
+2020,71 - Southwest,Medford,365,Upper Applegate Rd 2384,T39S R3W S3 NESW,B,Jackson,3/29/20 13:39,Debris Burning,0.5,0.5
+2020,71 - Southwest,Medford,366,Pioneer Rd 2275,T38S R1W S21 NWNW,F,Jackson,4/10/20 15:14,Debris Burning,1,1
+2020,71 - Southwest,Medford,367,Old Military rd 3141,T37S R2W S8 NWSE,C,Jackson,4/10/20 16:27,Smoking,1,1
+2020,71 - Southwest,Medford,368,Paradise Creek,T33S R2W S23 NESE,I,Jackson,4/13/20 11:30,Debris Burning,0.25,0.25
+2020,71 - Southwest,Medford,369,Ruch Store,T38S R3W S27 NENE,B,Jackson,4/14/20 12:10,Miscellaneous,0.1,0.1
+2020,71 - Southwest,Medford,370,Carolina Dr 9400,T36S R3W S28 SENE,R,Jackson,4/14/20 12:56,Debris Burning,0.5,0.5
+2020,71 - Southwest,Medford,370,Nugget Butte,T36S R3W S16 NENE,,Jackson,10/14/20 13:53,Under Invest,0.5,
+2020,71 - Southwest,Medford,372,S Fork Little Butte 8777,T37S R2E S11 SESE,F,Jackson,4/14/20 18:12,Debris Burning,0.25,0.25
+2020,71 - Southwest,Medford,373,S Fork Little Butte12272,T37S R3E S16 NWSE,L,Jackson,4/15/20 15:25,Debris Burning,0.5,0.5
+2020,71 - Southwest,Medford,375,Mill Creek Dr 2750,T33S R2E S16 NWNE,H,Jackson,4/16/20 14:36,Debris Burning,0.5,0.5
+2020,71 - Southwest,Medford,376,Salt Creek Rd,T35S R2E S34 SWSW,F,Jackson,4/17/20 13:09,Recreationist,0.25,0.25
+2020,71 - Southwest,Medford,380,Denman,T36S R1W S7 SESW,F,Jackson,4/21/20 13:08,Arson,0.25,0.25
+2020,71 - Southwest,Medford,383,Skookum Ln 739,T33S R2E S11 NENE,A,Jackson,4/26/20 17:07,Debris Burning,0.25,0.25
+2020,71 - Southwest,Medford,386,John Day Dr,T36S R2W S18 SWNW,F,Jackson,5/3/20 12:32,Debris Burning,0.01,0.01
+2020,71 - Southwest,Medford,388,7499 Hwy 238,T38S R3W S27 NESE,L,Jackson,5/3/20 15:00,Debris Burning,0.5,0.5
+2020,71 - Southwest,Medford,389,Dodge Rd 3096,T35S R1W S18 NESW,A,Jackson,5/4/20 11:47,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,390,PP-228100/Hugo Rd 7160,T34S R6W S22 SESE,A,Josephine,8/30/20 20:55,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,391,Pond,T38S R4E S6 SENW,I,Jackson,5/7/20 13:42,Debris Burning,0.1,0.1
+2020,71 - Southwest,Medford,401,Indian Creek Rd,T34S R1W S24 NWSW,A,Jackson,5/19/20 22:49,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Medford,406,Sams Valley Rd 5529,T35S R2W S31 NWNW,A,Jackson,5/23/20 13:38,Equipment Use,3.5,3.5
+2020,71 - Southwest,Medford,410,Butte Falls Hwy MM5,T35S R1E S7 SENE,X,Jackson,5/27/20 15:00,Debris Burning,0.1,0.1
+2020,71 - Southwest,Medford,412,Tub Springs,T40S R3E S2 SESW,F,Jackson,5/28/20 20:53,Equipment Use,0.1,0.1
+2020,71 - Southwest,Medford,415,Wagner Springs,T40S R2E S3 SENE,A,Jackson,5/30/20 14:00,Lightning,0.01,0.01
+2020,71 - Southwest,Grants Pass,419,Quartz Creek,T34S R7W S36 NWSE,A,Josephine,9/3/20 21:10,Equipment Use,0.1,0.1
+2020,71 - Southwest,Medford,425,Fish Lake Rd,T35S R3E S7 SWSW,A,Jackson,6/3/20 11:08,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,428,Ventura Lane 6339,T36S R2W S29 NESE,A,Jackson,6/5/20 10:44,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,430,Kane Creek Rd 5096,T36S R3W S35 SWSE,A,Jackson,6/6/20 16:16,Equipment Use,0.01,0.01
+2020,71 - Southwest,Medford,433,N. Mountain Ave,T39S R1E S4 SENE,A,Jackson,6/9/20 9:33,Equipment Use,0,0.01
+2020,71 - Southwest,Medford,438,Point Mountain,T39S R1W S17 SENE,A,Jackson,6/12/20 0:01,Lightning,0.1,0.1
+2020,71 - Southwest,Grants Pass,438,N River Road,T36S R4W S26 NWSW,F,Jackson,9/7/20 12:44,Equipment Use,2.57,2.57
+2020,71 - Southwest,Medford,444,Upper River 2586,T36S R3W S11 SWNE,A,Jackson,6/14/20 21:41,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Medford,445,Payne Rd 3895,T38S R1W S12 SWSW,A,Jackson,6/15/20 14:07,Debris Burning,0.01,0.01
+2020,71 - Southwest,Medford,453,SANTA BARBARA DR 4870,T37S R1W S35 SENW,B,Jackson,6/23/20 14:36,Equipment Use,0.1,0.1
+2020,71 - Southwest,Medford,458,HWY 234 6000,T35S R2W S27 NESE,A,Jackson,6/29/20 11:50,Juveniles,0.01,0.01
+2020,71 - Southwest,Medford,459,Nellis Ave,T36S R2W S29 SWNW,A,Jackson,6/29/20 12:47,Equipment Use,0.25,0.25
+2020,71 - Southwest,Medford,460,I5 SB MM37,T36S R2W S29 SWNW,A,Jackson,6/29/20 12:47,Equipment Use,0.25,0.25
+2020,71 - Southwest,Grants Pass,475,Illinois Valley Support,T40S R7W S17 SENE,C,Josephine,9/9/20 6:00,Under Invest,6696,155726
+2020,71 - Southwest,Grants Pass,498,Green Bridge,T39S R8W S9 NWNW,F,Josephine,9/9/20 19:35,Debris Burning,0.01,0.01
+2020,71 - Southwest,Grants Pass,500,Riverbanks Rd 7700,T35S R7W S35 SWNW,A,Josephine,9/10/20 7:10,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Grants Pass,520,Saratoga Way 1389,T35S R6W S34 SESE,A,Josephine,9/11/20 11:57,Smoking,0.01,0.01
+2020,71 - Southwest,Grants Pass,521,N School House #1,T35S R6W S11 SWNE,A,Josephine,9/11/20 12:33,Smoking,0.01,0.01
+2020,71 - Southwest,Grants Pass,522,N School House #2,T35S R6W S11 SENE,A,Josephine,9/11/20 12:33,Smoking,0.01,0.01
+2020,71 - Southwest,Grants Pass,551,Cheney Creek 1266,T37S R6W S18 SWNW,,Josephine,9/13/20 3:20,Miscellaneous,0.01,
+2020,71 - Southwest,Grants Pass,566,W Evans Creek 8175,T35S R4W S8 SESE,R,Jackson,9/14/20 5:17,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Grants Pass,616,Lakeshore Dr,T38S R7W S16 SWNW,A,Josephine,9/19/20 9:47,Smoking,0.01,0.01
+2020,71 - Southwest,Grants Pass,641,PP8-L3352B/Bridge Ln 126,T33S R6W S22 SENW,A,Josephine,9/21/20 13:51,Lightning,0.01,0.01
+2020,71 - Southwest,Grants Pass,658,Linkhart Dr 168,T38S R8W S2 NWSW,A,Josephine,9/22/20 17:45,Smoking,0.01,0.01
+2020,71 - Southwest,Grants Pass,661,Caves Hwy 8000,T39S R7W S22 SENE,C,Josephine,9/23/20 2:53,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Grants Pass,699,Hwy 199 MP 6,T36S R6W S29 SESW,F,Josephine,9/28/20 14:56,Equipment Use,0.1,0.1
+2020,71 - Southwest,Grants Pass,711,Meadow View 1201,T39S R5W S3 SENW,C,Josephine,9/29/20 14:23,Miscellaneous,0.53,0.53
+2020,71 - Southwest,Grants Pass,726,Merlin Sanitarium 605,T35S R6W S21 SWSW,F,Josephine,10/1/20 15:09,Juveniles,0.01,0.01
+2020,71 - Southwest,Grants Pass,727,S Old Stage 810,T39S R8W S28 NENE,H,Josephine,10/1/20 16:09,Miscellaneous,0.4,0.4
+2020,71 - Southwest,Grants Pass,761,Zig Zag,T35S R7W S16 SWSE,J,Josephine,2/21/20 15:39,Recreationist,0.25,0.25
+2020,71 - Southwest,Grants Pass,762,Zig Zag #2,T35S R7W S16 SWNW,H,Josephine,2/24/20 14:40,Miscellaneous,0.1,0.1
+2020,71 - Southwest,Grants Pass,763,Donaldson Road 5029,T35S R6W S25 SWSE,R,Josephine,2/25/20 16:19,Miscellaneous,1.5,1.5
+2020,71 - Southwest,Grants Pass,764,Marble Quary Rd,T37S R7W S13 SESW,H,Josephine,3/11/20 9:40,Recreationist,0.1,0.1
+2020,71 - Southwest,Grants Pass,765,Redwood Hwy 8800,T37S R7W S2 SENE,H,Josephine,3/11/20 16:20,Debris Burning,0.5,0.5
+2020,71 - Southwest,Grants Pass,766,Lenella Way,T36S R5W S16 SENE,R,Josephine,3/12/20 18:06,Debris Burning,0.6,0.6
+2020,71 - Southwest,Grants Pass,768,Lone Mountain Rd 1385,T40S R9W S26 SWNE,J,Josephine,3/13/20 15:49,Debris Burning,0.1,0.1
+2020,71 - Southwest,Grants Pass,769,Speaker Road,T33S R5W S10 NENW,I,Josephine,3/21/20 17:20,Debris Burning,10.78,10.78
+2020,71 - Southwest,Grants Pass,769,Valley of the Rogue #3,T36S R4W S25 SWNW,I,Jackson,10/7/20 7:53,Smoking,0.01,0.01
+2020,71 - Southwest,Grants Pass,770,Dowell Road 2161,T36S R6W S25 SWNW,H,Josephine,3/23/20 12:13,Debris Burning,0.1,0.1
+2020,71 - Southwest,Grants Pass,771,Marble Quarry #3,T37S R7W S24 NESW,H,Josephine,3/25/20 14:27,Recreationist,0.1,0.1
+2020,71 - Southwest,Grants Pass,772,Marble Quarry #4,T37S R7W S24 SESW,H,Josephine,3/25/20 14:27,Recreationist,0.1,0.1
+2020,71 - Southwest,Grants Pass,774,Little Cheney Creek,T37S R7W S13 SESW,H,Josephine,3/31/20 11:52,Recreationist,0.01,0.01
+2020,71 - Southwest,Grants Pass,777,Marble Quarry #5,T37S R7W S24 SESW,I,Josephine,4/2/20 13:10,Recreationist,0.01,0.01
+2020,71 - Southwest,Grants Pass,778,Marble Quarry #6,T37S R7W S24 SWSW,J,Josephine,4/3/20 10:50,Recreationist,0.1,0.1
+2020,71 - Southwest,Grants Pass,781,N Applegate Road,T38S R4W S16 NWSW,H,Josephine,4/10/20 6:23,Equipment Use,0.1,0.1
+2020,71 - Southwest,Grants Pass,783,SB I5 MP 49,T36S R4W S16 SESE,A,Jackson,10/9/20 16:25,Equipment Use,0.1,0.1
+2020,71 - Southwest,Grants Pass,784,Speaker Road 1568,T33S R5W S7 SWNE,F,Josephine,4/12/20 14:30,Debris Burning,0.75,0.75
+2020,71 - Southwest,Grants Pass,785,Merlin Sanitarium Rd 816,T35S R6W S28 NWNW,F,Josephine,4/12/20 17:36,Debris Burning,0.73,0.73
+2020,71 - Southwest,Grants Pass,786,Fish Hatchery 4433,T37S R6W S8 SESW,,Josephine,10/10/20 11:00,Miscellaneous,0.01,
+2020,71 - Southwest,Grants Pass,788,Slagle Creek Rd 1102,T37S R4W S32 NESW,H,Josephine,4/13/20 12:52,Debris Burning,0.75,0.75
+2020,71 - Southwest,Grants Pass,789,Lower Grave Crk Rd 7898,T33S R7W S34 SWSE,H,Josephine,4/13/20 15:45,Miscellaneous,1,1
+2020,71 - Southwest,Grants Pass,791,N Applegate Rd 10912,T37S R5W S27 NESE,G,Josephine,4/14/20 15:20,Debris Burning,0.5,0.5
+2020,71 - Southwest,Grants Pass,793,Mainline Chandler,T39S R8W S3 NESE,H,Josephine,4/15/20 0:03,Debris Burning,0.1,0.1
+2020,71 - Southwest,Grants Pass,794,Hugo Road 500,T35S R6W S20 NWNW,H,Josephine,4/17/20 12:18,Debris Burning,0.1,0.1
+2020,71 - Southwest,Grants Pass,795,Airport Drive 116,T40S R8W S6 SESE,A,Josephine,4/17/20 17:52,Debris Burning,1,1
+2020,71 - Southwest,Grants Pass,796,Kerby Mainline #4,T39S R8W S3 NESW,H,Josephine,4/17/20 19:12,Debris Burning,3.2,3.2
+2020,71 - Southwest,Grants Pass,797,Daily Lane 412,T36S R7W S26 SENW,K,Josephine,4/18/20 6:05,Debris Burning,0.26,0.26
+2020,71 - Southwest,Grants Pass,798,Galice Road MP 9,T35S R7W S6 SWNE,A,Josephine,4/18/20 8:08,Recreationist,0.01,0.01
+2020,71 - Southwest,Grants Pass,799,Quartz Creek #2,T34S R7W S24 NWNW,C,Josephine,4/18/20 12:02,Recreationist,0.01,0.01
+2020,71 - Southwest,Grants Pass,800,Low Divide,T39S R6W S26 SENW,I,Josephine,4/19/20 21:06,Recreationist,0.5,0.5
+2020,71 - Southwest,Grants Pass,802,Pine Cone Drive,T39S R8W S25 NWSW,F,Josephine,4/20/20 17:17,Debris Burning,0.24,0.24
+2020,71 - Southwest,Grants Pass,804,Shangrila Lane,T35S R4W S35 NWNW,F,Josephine,4/21/20 13:24,Debris Burning,18,18
+2020,71 - Southwest,Grants Pass,806,Riverbanks Road MP 16,T36S R7W S2 SWSW,H,Josephine,4/21/20 16:59,Debris Burning,0.01,0.01
+2020,71 - Southwest,Grants Pass,809,Yearly Way 255,T36S R7W S25 NWSW,H,Josephine,4/23/20 13:15,Debris Burning,0.01,0.01
+2020,71 - Southwest,Grants Pass,810,Riverbanks 7770,T35S R7W S35 SENW,H,Josephine,4/23/20 14:08,Debris Burning,0.01,0.01
+2020,71 - Southwest,Grants Pass,813,Westside Rd 6285,T39S R8W S31 NESE,H,Josephine,4/26/20 15:44,Debris Burning,0.2,0.2
+2020,71 - Southwest,Grants Pass,814,PP A10708/Saratoga Way,T35S R6W S34 SESW,C,Josephine,4/26/20 18:43,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,815,Robinson Corner,T39S R7W S35 SENW,K,Josephine,4/29/20 12:31,Recreationist,0.01,0.01
+2020,71 - Southwest,Grants Pass,816,N Applegate 9360,T37S R5W S22 SENW,B,Josephine,4/29/20 17:25,Debris Burning,0.25,0.25
+2020,71 - Southwest,Grants Pass,817,PP-209400 Fielder Ln,T36S R4W S20 SESE,A,Josephine,4/29/20 17:34,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,818,Culver Lane 102,T35S R6W S20 NESE,H,Josephine,4/29/20 17:52,Debris Burning,0.01,0.01
+2020,71 - Southwest,Grants Pass,821,Deer Creek Road 8300,T38S R6W S18 SENW,K,Josephine,4/30/20 16:45,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,868,Westside Rd 6000,T39S R8W S31 NESE,A,Josephine,5/5/20 12:35,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,872,I-5 SB MM 55,T36S R5W S16 NESE,A,Josephine,5/6/20 14:27,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,873,I-5 NB MM 54,T36S R5W S14 SESW,A,Josephine,5/6/20 15:00,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,874,Redwood Hwy 35000,T40S R9W S25 SWSW,I,Josephine,5/7/20 8:01,Miscellaneous,0.5,0.5
+2020,71 - Southwest,Grants Pass,887,Valley Rogue Way 239,T36S R6W S14 SWNE,K,Josephine,5/8/20 11:25,Debris Burning,0.01,0.01
+2020,71 - Southwest,Grants Pass,892,Barker Rd 255,T35S R6W S20 NENW,A,Josephine,5/8/20 17:23,Debris Burning,0.01,0.01
+2020,71 - Southwest,Grants Pass,896,Morgan Buckhorn,T38S R6W S26 NWNW,J,Josephine,5/10/20 10:45,Recreationist,0.01,0.01
+2020,71 - Southwest,Grants Pass,903,Birdseye Creek 1849,T37S R4W S3 SESW,H,Jackson,5/11/20 12:25,Debris Burning,0.25,0.25
+2020,71 - Southwest,Grants Pass,908,759050D/Warner Rd,T33S R6W S14 SENW,H,Josephine,5/12/20 4:31,Railroad,0.01,0.01
+2020,71 - Southwest,Grants Pass,910,Monument Drive 7598,T35S R6W S16 NESE,A,Josephine,5/13/20 6:03,Miscellaneous,0.1,0.1
+2020,71 - Southwest,Grants Pass,915,Foots Creek 1974,T37S R4W S12 SENW,I,Jackson,5/13/20 12:50,Debris Burning,0.01,0.01
+2020,71 - Southwest,Grants Pass,925,West 6th St,T39S R8W S4 SWSW,A,Josephine,5/15/20 13:38,Recreationist,0.01,0.01
+2020,71 - Southwest,Grants Pass,960,Savage Creek,T37S R5W S14 NENE,A,Josephine,5/18/20 21:14,Arson,0.01,0.01
+2020,71 - Southwest,Grants Pass,961,Mountain Lion Mine,T37S R5W S23 NWNE,A,Josephine,5/18/20 21:14,Arson,0.01,0.01
+2020,71 - Southwest,Grants Pass,962,Oscar Creek,T37S R5W S23 NWNE,A,Josephine,5/18/20 21:14,Arson,0.01,0.01
+2020,71 - Southwest,Grants Pass,963,Abegg Road 615,T35S R6W S19 SENW,A,Josephine,5/19/20 13:07,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,972,N Sawyer Avenue,T39S R8W S16 NWSE,A,Josephine,5/21/20 5:51,Debris Burning,0.25,0.25
+2020,71 - Southwest,Grants Pass,977,Pearce Park,T36S R5W S22 NENW,A,Josephine,5/21/20 19:59,Debris Burning,0.01,0.01
+2020,71 - Southwest,Grants Pass,982,Cheney Creek,T37S R7W S13 NWSE,F,Josephine,5/23/20 15:48,Recreationist,0.01,0.01
+2020,71 - Southwest,Grants Pass,989,Keen Rd 333,T37S R6W S15 NWNW,A,Josephine,5/24/20 13:30,Debris Burning,0.1,0.1
+2020,71 - Southwest,Grants Pass,997,N Sawyer #2,T39S R8W S16 NWSE,A,Josephine,5/25/20 18:40,Arson,0.01,0.01
+2020,71 - Southwest,Grants Pass,A08,Silver Creek,T35S R9W S11 NWNW,G,Josephine,5/30/20 11:00,Recreationist,0.01,0.01
+2020,71 - Southwest,Grants Pass,A55,Quartz Creek Rd,T34S R7W S36 NESE,C,Josephine,6/13/20 12:53,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Grants Pass,A76,Dollar Mountain,T36S R6W S12 SWNE,R,Josephine,6/18/20 9:02,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,A79,Powell Creek 221,T38S R5W S11 SESE,L,Josephine,6/19/20 16:27,Smoking,0.17,0.17
+2020,71 - Southwest,Grants Pass,A82,Draper Valley 1751,T37S R8W S36 SWSE,A,Josephine,6/21/20 14:42,Debris Burning,0.01,0.01
+2020,71 - Southwest,Grants Pass,A84,PP-025501 Watergap,T38S R5W S2 SWNE,L,Josephine,6/21/20 16:05,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,A90,PP-076901/Wms Hwy 4780,T37S R5W S7 NWNE,A,Josephine,6/23/20 17:01,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,A95,Jerome Prairie 5920,T36S R6W S32 SWSW,L,Josephine,6/25/20 16:30,Equipment Use,0.1,0.1
+2020,71 - Southwest,Grants Pass,B01,I-5 MP 62,T35S R6W S24 NWSW,A,Josephine,6/27/20 9:48,Equipment Use,0.01,0.01
+2020,71 - Southwest,Grants Pass,B02,Boswell Mine,T39S R7W S35 SENW,H,Josephine,6/27/20 13:54,Recreationist,0.01,0.01
+2020,71 - Southwest,Grants Pass,B05,Foothill Blvd 3711,T36S R5W S14 SWSW,C,Josephine,6/27/20 23:19,Smoking,0.01,0.01
+2020,71 - Southwest,Grants Pass,B06,Tavis Dr 111,T35S R6W S16 SESW,A,Josephine,6/28/20 9:00,Debris Burning,0.01,0.01
+2020,71 - Southwest,Grants Pass,B10,Finch Rd #5,T39S R8W S9 NWNW,C,Josephine,6/28/20 20:38,Arson,0.02,0.02
+2020,71 - Southwest,Grants Pass,B11,Savage Creek Rd 400,T36S R4W S30 NESW,C,Jackson,6/29/20 3:24,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Grants Pass,B15,Naue Way 404,T40S R9W S23 SESE,F,Josephine,6/29/20 16:02,Miscellaneous,0.01,0.01
+2020,71 - Southwest,Grants Pass,B20,Kaneeta Ln 723,T35S R6W S2 NWNE,A,Josephine,6/30/20 12:24,Debris Burning,0.01,0.01
+2020,72 - Coos,Coos FPA,1,Clear Lake,T22S R13W S24 NWNE,H,Douglas,7/1/20 10:58,Equipment Use,0.01,0.01
+2020,72 - Coos,Coos FPA,6,West Beaver Hill Rd,T27S R14W S2 SWNW,F,Coos,7/3/20 16:39,Recreationist,0.32,0.32
+2020,72 - Coos,Gold Beach,8,Conner Creek,T30S R15W S11 SESE,A,Coos,7/5/20 13:55,Equipment Use,0.25,0.25
+2020,72 - Coos,Coos FPA,9,Grinnell Lane,T25S R13W S30 SESW,H,Coos,7/5/20 16:11,Smoking,0.01,0.01
+2020,72 - Coos,Coos FPA,11,Isthmus Slough,T26S R13W S35 SESE,X,Coos,7/7/20 10:20,Debris Burning,0.01,0.01
+2020,72 - Coos,Coos FPA,12,Whisky Run Beach,T27S R14W S30 NESE,X,Coos,7/9/20 9:26,Recreationist,0.01,0.01
+2020,72 - Coos,Coos FPA,16,North Bank Lane,T27S R13W S20 SENE,A,Coos,7/19/20 10:07,Miscellaneous,0.01,0.01
+2020,72 - Coos,Coos FPA,19,Wildwood Dr,T24S R13W S11 SENW,A,Coos,7/22/20 13:14,Debris Burning,0.01,0.01
+2020,72 - Coos,Coos FPA,21,Haywood Inlet,T26S R14W S11 SESW,F,Coos,7/24/20 17:39,Recreationist,0.08,0.08
+2020,72 - Coos,Coos FPA,22,Gardiner,T21S R12W S22 SWSE,L,Douglas,7/25/20 8:37,Equipment Use,0.01,0.01
+2020,72 - Coos,Coos FPA,23,Grinnell Lane #2,T25S R13W S30 SESW,H,Coos,7/25/20 11:18,Smoking,0.01,0.01
+2020,72 - Coos,Coos FPA,26,Morgan Ridge,T26S R11W S3 NWSE,J,Coos,7/25/20 23:32,Recreationist,0.1,0.1
+2020,72 - Coos,Gold Beach,30,Bradley Lake,T29S R15W S13 SWNE,F,Coos,7/29/20 11:04,Miscellaneous,0.02,0.02
+2020,72 - Coos,Coos FPA,31,North Slough,T24S R13W S22 SENE,A,Coos,7/30/20 18:36,Smoking,0.01,0.01
+2020,72 - Coos,Coos FPA,33,Cape Arago Rd,T26S R14W S3 SESW,H,Coos,7/31/20 9:57,Recreationist,0.01,0.01
+2020,72 - Coos,Bridge,48,Sitkum Lane MP 15,T28S R11W S15 SWSW,F,Coos,8/9/20 17:05,Equipment Use,0.02,0.02
+2020,72 - Coos,Coos FPA,49,Noel Ridge,T21S R11W S4 SWNE,J,Douglas,8/9/20 17:41,Equipment Use,0.45,0.45
+2020,72 - Coos,Coos FPA,51,MM16 Hwy 38,T22S R9W S7 SWSE,,Douglas,8/11/20 12:29,Equipment Use,13.75,
+2020,72 - Coos,Coos FPA,52,Seven Devils Rd,T28S R14W S4 SENW,,Coos,8/12/20 14:44,Recreationist,0.02,
+2020,72 - Coos,Coos FPA,54,Barklow Lane,T25S R13W S30 SESW,,Coos,8/12/20 16:25,Debris Burning,0.01,
+2020,72 - Coos,Coos FPA,67,Hwy 42 MM3,T27S R13W S3 NESE,A,Coos,8/24/20 14:30,Equipment Use,0.01,0.01
+2020,72 - Coos,Coos FPA,73,Raymond Lane,T24S R13W S2 NWNE,A,Coos,8/26/20 17:30,Smoking,0.01,0.01
+2020,72 - Coos,Coos FPA,80,Wasson Creek,T27S R14W S14 SESE,H,Coos,8/30/20 17:34,Recreationist,0.35,0.35
+2020,72 - Coos,Gold Beach,83,280 Road,T33S R15W S25 NWNE,,Curry,9/1/20 14:50,Miscellaneous,4,
+2020,72 - Coos,Gold Beach,84,Wilson Creek,T39S R12W S17 NESW,F,Curry,9/2/20 9:00,Miscellaneous,0.4,0.4
+2020,72 - Coos,Coos FPA,88,Ida Lane,T25S R13W S34 NENW,H,Coos,9/6/20 12:15,Debris Burning,0.01,0.01
+2020,72 - Coos,Bridge,89,Old Highway 42,T28S R12W S30 SESE,L,Coos,9/7/20 13:55,Equipment Use,0.08,0.08
+2020,72 - Coos,Coos FPA,95,North Bank Lane MM8,T28S R14W S24 NESE,,Coos,9/8/20 10:25,Equipment Use,318,
+2020,72 - Coos,Coos FPA,96,Libby Lane,T26S R13W S5 NWSW,,Coos,9/8/20 13:00,Recreationist,0.2,
+2020,72 - Coos,Coos FPA,100,Tugman Hill,T23S R12W S6 SWSW,,Coos,9/9/20 13:37,Equipment Use,0.25,
+2020,72 - Coos,Coos FPA,102,Coalbank Slough,T25S R13W S35 SWNE,,Coos,9/14/20 14:43,Recreationist,0.03,
+2020,72 - Coos,Coos FPA,105,MM7 Hwy 241,T25S R12W S23 SESW,,Coos,9/15/20 13:20,Equipment Use,0.01,
+2020,72 - Coos,Bridge,111,Cribbins Hill,T29S R12W S28 SWSW,L,Coos,9/23/20 12:33,Equipment Use,0.03,0.03
+2020,72 - Coos,Coos FPA,112,Stock Slough,T26S R12W S4 SWSE,,Coos,9/23/20 12:37,Equipment Use,0.01,
+2020,72 - Coos,Bridge,119,Finley Loop,T28S R12W S18 SESW,F,Coos,9/28/20 15:37,Equipment Use,0.1,0.1
+2020,72 - Coos,Coos FPA,132,Tioga Creek,T27S R9W S16 SWNE,J,Coos,3/6/20 11:26,Miscellaneous,3,3
+2020,72 - Coos,Gold Beach,133,Timeus Ranch,T40S R13W S18 NWSW,K,Curry,3/12/20 17:10,Debris Burning,14.5,14.5
+2020,72 - Coos,Coos FPA,136,Acme Road,T26S R13W S35 SWSW,J,Coos,4/13/20 15:40,Miscellaneous,0.25,0.25
+2020,72 - Coos,Coos FPA,137,Otter Creek,T21S R11W S28 NWNW,L,Douglas,4/19/20 11:20,Debris Burning,0.65,0.65
+2020,72 - Coos,Coos FPA,149,Lutsinger Creek,T22S R9W S23 NENW,H,Douglas,5/30/20 11:56,Lightning,0.01,0.01
+2020,72 - Coos,Coos FPA,150,Tyee Access Rd,T23S R9W S25 NWSE,H,Douglas,5/31/20 14:56,Lightning,0.01,0.01
+2020,73 - Douglas,North,19,Hayhurst Rd.,T22S R6W S25 NESE,F,Douglas,7/5/20 16:30,Equipment Use,0.01,0.01
+2020,73 - Douglas,North,27,Cole's Valley,T25S R7W S35 NESE,J,Douglas,7/7/20 2:45,Arson,0.01,0.01
+2020,73 - Douglas,Central,29,Moorea Dr,T27S R6W S2 NWSE,A,Douglas,7/8/20 20:15,Equipment Use,0.1,0.1
+2020,73 - Douglas,North,31,Eagle Valley Rd,T22S R5W S28 SWNE,L,Douglas,7/12/20 11:49,Equipment Use,0.01,0.01
+2020,73 - Douglas,South,36,Canyon Creek,T31S R5W S15 NWSW,I,Douglas,7/14/20 17:27,Equipment Use,0.01,0.01
+2020,73 - Douglas,Central,39,MP 114 I-5,T29S R6W S1 SWNW,A,Douglas,7/14/20 19:03,Equipment Use,5.3,5.3
+2020,73 - Douglas,South,43,Bilger Creek,T29S R5W S14 SESW,R,Douglas,7/15/20 20:00,Equipment Use,0.1,0.1
+2020,73 - Douglas,South,54,Dad's Creek,T32S R7W S28 SWNW,H,Douglas,7/19/20 20:35,Recreationist,0.75,0.75
+2020,73 - Douglas,South,57,Dead Horse,T30S R2W S23 NESW,H,Douglas,7/20/20 8:20,Recreationist,0.1,0.1
+2020,73 - Douglas,South,58,Days Creek,T29S R3W S22 NWSE,K,Douglas,7/20/20 11:15,Under Invest,24.5,24.5
+2020,73 - Douglas,South,63,Milepost 92,T31S R5W S26 NESE,H,Douglas,7/21/20 13:32,Equipment Use,4.5,4.5
+2020,73 - Douglas,South,69,Milepost 92 South,T31S R5W S26 SWSE,F,Douglas,7/22/20 17:35,Miscellaneous,0.25,0.25
+2020,73 - Douglas,North,71,Cofey Crossing,T23S R5W S15 SESW,A,Douglas,7/23/20 11:05,Equipment Use,0.25,0.25
+2020,73 - Douglas,Central,74,Rice Creek,T29S R6W S9 NWSW,H,Douglas,7/23/20 15:30,Equipment Use,28.61,28.61
+2020,73 - Douglas,North,85,Nonpareil,T25S R4W S9 SESW,C,Douglas,7/27/20 17:05,Equipment Use,0.1,0.1
+2020,73 - Douglas,South,87,Springbrook,T29S R5W S15 SWNE,R,Douglas,7/26/20 18:30,Miscellaneous,0.1,0.1
+2020,73 - Douglas,North,89,Hutchinson Wayside,T23S R7W S33 NWSE,F,Douglas,7/27/20 4:20,Equipment Use,0.1,0.1
+2020,73 - Douglas,South,93,Jordan Creek,T30S R5W S32 SENE,L,Douglas,7/27/20 23:14,Juveniles,0.1,0.1
+2020,73 - Douglas,Central,100,McComas,T25S R3W S34 NWSE,J,Douglas,7/28/20 22:30,Arson,1,1
+2020,73 - Douglas,North,101,HWY 38,T22S R6W S16 NENW,H,Douglas,7/29/20 13:01,Equipment Use,2.36,2.36
+2020,73 - Douglas,Central,110,Lone Rock Rd,T26S R3W S9 SWSE,C,Douglas,7/31/20 14:50,Miscellaneous,0.01,0.01
+2020,73 - Douglas,North,113,Scotts Valley,T22S R4W S32 SENW,A,Douglas,8/2/20 14:30,Equipment Use,1.1,1.1
+2020,73 - Douglas,North,118,Hinkle Creek,T25S R3W S5 NESW,H,Douglas,8/4/20 18:20,Smoking,0.22,0.22
+2020,73 - Douglas,South,133,Cow Cr.,T31S R7W S9 SWNE,A,Douglas,8/7/20 14:05,Equipment Use,3,3
+2020,73 - Douglas,North,143,Highway 138W,T24S R6W S34 NWSW,H,Douglas,8/8/20 10:30,Miscellaneous,0.1,0.1
+2020,73 - Douglas,South,147,Sam Radford,T29S R1W S33 NWSE,H,Douglas,8/8/20 21:20,Equipment Use,0.2,0.2
+2020,73 - Douglas,Central,148,Reston Rd.,T28S R8W S24 NESW,F,Douglas,8/9/20 13:14,Equipment Use,0.25,0.25
+2020,73 - Douglas,South,152,Eakin Rd.,T32S R5W S23 SWNW,L,Douglas,8/9/20 18:31,Equipment Use,0.1,0.1
+2020,73 - Douglas,South,155,Riddle By Pass,T30S R6W S23 NWSE,L,Douglas,8/10/20 12:30,Equipment Use,0.1,0.1
+2020,73 - Douglas,North,157,Martin Creek,T23S R7W S21 NENW,H,Douglas,8/10/20 14:10,Miscellaneous,0.75,0.75
+2020,73 - Douglas,North,166,Hubbard Cr.,,,Douglas,8/12/20 6:00,Equipment Use,0.1,
+2020,73 - Douglas,Central,167,Clay Cr.,T26S R2W S8 SWSW,H,Douglas,8/12/20 11:59,Equipment Use,0.01,0.01
+2020,73 - Douglas,North,173,Crouch Rd.,T25S R6W S22 NWSW,L,Douglas,8/14/20 11:10,Equipment Use,0.25,0.25
+2020,73 - Douglas,Central,201,Kent Creek #2,,,Douglas,8/17/20 16:40,Under Invest,1,
+2020,73 - Douglas,Central,205,Roberts Mtn Rd,T28S R6W S23 NWSW,X,Douglas,8/18/20 12:48,Arson,0.01,0.01
+2020,73 - Douglas,Central,230,Hwy 42,T28S R6W S30 NESW,A,Douglas,8/24/20 17:17,Equipment Use,2,2
+2020,73 - Douglas,North,233,Rock Creek Road,T21S R5W S34 NWNE,A,Douglas,8/25/20 14:20,Debris Burning,6.5,6.5
+2020,73 - Douglas,North,236,MP 153,T23S R5W S1 SWSW,L,Douglas,8/25/20 18:05,Under Invest,0.1,0.1
+2020,73 - Douglas,Central,239,Burnt Mountain,T28S R8W S16 NWNE,H,Douglas,8/26/20 12:15,Equipment Use,0.5,0.5
+2020,73 - Douglas,South,241,Azalea Glen,T32S R6W S25 SWNE,A,Douglas,8/26/20 20:45,Equipment Use,0.01,0.01
+2020,73 - Douglas,South,254,MP 25 Tiller Trail Hwy,T30S R2W S32 NWNW,L,Douglas,8/29/20 22:21,Equipment Use,0.01,0.01
+2020,73 - Douglas,Central,272,Lookingglass,T28S R6W S18 NWNW,A,Douglas,9/3/20 13:13,Arson,0.25,0.25
+2020,73 - Douglas,Central,275,Homestead,T29S R5W S6 NWSW,A,Douglas,9/4/20 14:00,Equipment Use,0.5,0.5
+2020,73 - Douglas,North,276,Cabin Creek,,,Douglas,9/4/20 14:15,Under Invest,0.01,
+2020,73 - Douglas,Central,277,Indian Nose,,,Douglas,9/4/20 19:46,Miscellaneous,0.01,
+2020,73 - Douglas,Central,296,French Creek,,,Douglas,9/8/20 0:30,Under Invest,495,
+2020,73 - Douglas,Central,300,Archie Creek/ Star Mtn,,,,9/8/20 9:09,Under Invest,107000,130000
+2020,73 - Douglas,South,302,4000 Rueben Rd.,T32S R7W S36 SWSE,L,Douglas,3/21/20 15:02,Debris Burning,0.25,0.25
+2020,73 - Douglas,Central,302,Benedict Rd,,,Douglas,9/8/20 15:08,Under Invest,0.01,
+2020,73 - Douglas,North,303,Elkhead Rd. #2,T23S R4W S32 NESE,J,Douglas,4/16/20 15:10,Debris Burning,16.52,16.52
+2020,73 - Douglas,North,304,Hayhurst,T23S R5W S7 SWNE,J,Douglas,4/16/20 16:30,Debris Burning,59.37,59.37
+2020,73 - Douglas,South,305,Island Creek,T30S R7W S36 SWSW,J,Douglas,4/18/20 20:25,Recreationist,0.1,0.1
+2020,73 - Douglas,South,306,Canyon Pass,T31S R5W S35 SWSW,J,Douglas,4/28/20 10:40,Recreationist,0.25,0.25
+2020,73 - Douglas,Central,306,Summit Drive,,,Douglas,9/9/20 5:35,Under Invest,3.5,
+2020,73 - Douglas,North,307,Miner Cr.,T24S R8W S26 SWNW,J,Douglas,4/30/20 18:00,Recreationist,0.01,0.01
+2020,73 - Douglas,South,309,Boomer Hill,T29S R6W S34 NESW,H,Douglas,5/3/20 8:00,Recreationist,0.01,0.01
+2020,73 - Douglas,Central,309,10000 Coos Bay Wagon Rd,,,Douglas,9/10/20 9:15,Under Invest,0.01,
+2020,73 - Douglas,South,310,Tiller Trail Hwy MP 20,T30S R3W S34 NENE,F,Douglas,5/5/20 15:03,Equipment Use,0.01,0.01
+2020,73 - Douglas,North,311,Putnam Valley,,,,9/12/20 16:04,Under Invest,0.01,
+2020,73 - Douglas,South,311,Windy Cr. #2,T32S R6W S23 SWNE,K,Douglas,5/7/20 12:05,Debris Burning,0.1,0.1
+2020,73 - Douglas,South,313,MP 103,T30S R5W S18 SENE,A,Douglas,5/8/20 13:55,Equipment Use,1.75,1.75
+2020,73 - Douglas,Central,315,Kent Creek,T29S R7W S14 SWNE,H,Douglas,5/15/20 16:50,Recreationist,0.1,0.1
+2020,73 - Douglas,Central,316,Bear Ridge,T26S R7W S20 NESE,J,Douglas,5/17/20 15:00,Recreationist,0.1,0.1
+2020,73 - Douglas,South,319,Canyonville Riddle Rd #2,T30S R5W S33 NENW,F,Douglas,5/25/20 12:30,Debris Burning,0.01,0.01
+2020,73 - Douglas,South,320,Pack Saddle,T29S R4W S17 NWSE,H,Douglas,5/29/20 9:50,Miscellaneous,0.01,0.01
+2020,73 - Douglas,Central,326,Happy Valley Rd.,T28S R6W S5 SESE,L,Douglas,6/3/20 14:20,Debris Burning,0.25,0.25
+2020,73 - Douglas,South,327,O'Shea Creek,T31S R5W S12 NENW,H,Douglas,6/10/20 14:55,Equipment Use,0.1,0.1
+2020,73 - Douglas,South,330,Saddle Fire,T29S R4W S17 SENW,I,Douglas,6/11/20 23:57,Lightning,0.25,0.25
+2020,73 - Douglas,Central,338,I-5 MP 118,T28S R6W S13 NWSW,A,Douglas,6/17/20 16:15,Miscellaneous,0.25,0.25
+2020,73 - Douglas,Central,346,Upper Olalla,T29S R7W S32 SWNE,F,Douglas,6/20/20 12:13,Miscellaneous,0.1,0.1
+2020,73 - Douglas,North,348,Rainy Peak,T23S R8E S16,,Douglas,9/18/20 7:45,Lightning,0.01,
+2020,73 - Douglas,North,350,Big K,T23S R7W S10 NESE,A,Douglas,6/22/20 15:48,Equipment Use,11,11
+2020,73 - Douglas,Central,351,Weigle Rd,T29S R6W S11 NWNE,F,Douglas,6/23/20 16:34,Recreationist,0.75,0.75
+2020,73 - Douglas,South,367,Dole Rd.,,,Douglas,9/20/20 20:00,Under Invest,0.01,
+2020,73 - Douglas,North,374,Rice Valley Rd,,,Douglas,9/23/20 16:16,Equipment Use,3,
+2020,73 - Douglas,Central,385,Braunda Dr,,,Douglas,9/27/20 10:38,Equipment Use,0.01,
+2020,77 - East Lane,Sweet Home,1,Claw Fire,T13S R1E S22 SWSE,F,Linn,7/1/20 21:00,Recreationist,0.01,0.01
+2020,77 - East Lane,Sweet Home,2,Fern Ridge 880,T13S R1W S35 NESE,L,Linn,7/4/20 12:21,Equipment Use,0.01,0.01
+2020,77 - East Lane,Sweet Home,3,Ridgeway 124,T13S R1E S30 NWNW,F,Linn,7/4/20 21:50,Recreationist,0.01,0.01
+2020,77 - East Lane,Sweet Home,7,Rowell Hill 773,T14S R1W S2 SESE,L,Linn,7/14/20 11:37,Debris Burning,0,0.01
+2020,77 - East Lane,Sweet Home,8,Foster Trail Fires,T13S R1E S25 NWNE,H,Linn,7/14/20 13:00,Recreationist,0.01,0.01
+2020,77 - East Lane,Sweet Home,10,Indian RV,T13S R3E S33 NENE,X,Linn,7/18/20 15:55,Equipment Use,0.01,0.01
+2020,77 - East Lane,Sweet Home,14,Crawfordsville Incident,T14S R1W S8 NESW,L,Linn,7/20/20 15:10,Equipment Use,0.1,0.1
+2020,77 - East Lane,Sweet Home,15,Santiam Terrace/Fairview,T13S R1W S10 NENW,A,Linn,7/21/20 15:40,Equipment Use,0.01,0.01
+2020,77 - East Lane,Sweet Home,16,MP 12 Hwy 228,T14S R2W S10 NWNE,A,Linn,7/28/20 15:27,Equipment Use,0,0.01
+2020,77 - East Lane,East Lane,18,Clearwater,T18S R2W S8 NENW,R,Lane,7/21/20 19:46,Recreationist,0.01,0.01
+2020,77 - East Lane,East Lane,19,Row River Trailer STAT,T21S R1W S35 NWSE,X,Lane,7/22/20 5:45,Miscellaneous,0.01,0.01
+2020,77 - East Lane,East Lane,21,Cedar Flat Rd,T18S R1W S6 NWSE,X,Lane,7/24/20 6:09,Miscellaneous,0.1,0.1
+2020,77 - East Lane,Sweet Home,22,665 Bellinger Scale Fire,T12S R1W S10 NWSE,L,Linn,8/3/20 15:15,Equipment Use,0.02,0.02
+2020,77 - East Lane,Sweet Home,24,Turbyne Fire,T14S R1E S4 NWNW,H,Linn,8/5/20 17:00,Recreationist,0.01,0.01
+2020,77 - East Lane,Sweet Home,27,Timber Rd Fire,T15S R2W S11 SENW,H,Linn,8/11/20 12:06,Recreationist,1.04,1.04
+2020,77 - East Lane,Sweet Home,28,Crawfordsville Rd 510,T15S R2W S11 SENW,X,Linn,8/12/20 21:48,Debris Burning,0,0
+2020,77 - East Lane,Sweet Home,30,Bee Fire,T13S R1E S29 NWNW,F,Linn,8/13/20 7:26,Debris Burning,0,0.01
+2020,77 - East Lane,East Lane,34,Bohemia 400,T22S R1W S6 NWNW,J,Lane,8/4/20 12:30,Equipment Use,0.01,0.01
+2020,77 - East Lane,Sweet Home,39,Train Track Fire,T13S R1W S25 SWNW,L,Linn,8/23/20 11:05,Railroad,0.23,0.23
+2020,77 - East Lane,Sweet Home,41,Santiam Hwy 966,T12S R1W S29 SESW,L,Linn,8/25/20 15:20,Juveniles,0.1,0.1
+2020,77 - East Lane,East Lane,43,Jasper Railroad,T18S R2W S23 SESE,A,Lane,8/10/20 13:40,Miscellaneous,0.25,0.25
+2020,77 - East Lane,Sweet Home,46,Green Peter Peninsula,T12S R3E S29 SWSW,G,Linn,8/29/20 17:35,Recreationist,18.1,18.1
+2020,77 - East Lane,East Lane,47,Finn Creek,T16S R2E S29 SWNE,X,Lane,8/11/20 21:39,Miscellaneous,0.5,0.5
+2020,77 - East Lane,Sweet Home,63,Snow Peak Powerline Fire,T11S R1E S21 NWSE,X,Linn,9/7/20 21:54,Equipment Use,0,0
+2020,77 - East Lane,East Lane,64,Sears rd fire,T19S R3W S35 NENE,R,Lane,8/24/20 12:58,Recreationist,0.35,0.35
+2020,77 - East Lane,East Lane,66,Clearwater Ramp,T18S R2W S8 NWNE,F,Lane,8/25/20 16:30,Smoking,0.1,0.1
+2020,77 - East Lane,Sweet Home,66,Calapooia Power Line 1,T14S R1W S24 SWSE,H,Linn,9/8/20 3:43,Equipment Use,0.5,0.5
+2020,77 - East Lane,East Lane,67,Spaulding Rock,T16S R3E S31 NESW,F,Lane,8/28/20 20:14,Recreationist,0.1,0.1
+2020,77 - East Lane,Sweet Home,67,Hwy 20 MP 30,T13S R2E S30 SENE,H,Linn,9/8/20 4:41,Equipment Use,1.95,1.95
+2020,77 - East Lane,East Lane,68,Taylor Structure Fire,T16S R5E S14 SENE,X,Lane,8/28/20 23:17,Miscellaneous,0.5,0.5
+2020,77 - East Lane,Sweet Home,70,North River Road 123,T13S R1E S23 SWSW,X,Linn,2/26/20 13:48,Debris Burning,0.01,0.01
+2020,77 - East Lane,Sweet Home,71,North River Mother,T13S R1E S2 NWNW,K,Linn,5/9/20 12:26,Debris Burning,0.1,0.1
+2020,77 - East Lane,Sweet Home,73,Snow Peak D-2,T11S R2E S15 SWSW,X,Linn,5/28/20 10:26,Equipment Use,0.01,0.01
+2020,77 - East Lane,Sweet Home,74,W Brush Creek,T14S R1W S31 SESE,H,Linn,9/11/20 7:34,Arson,13.6,13.6
+2020,77 - East Lane,Sweet Home,75,High Deck,T13S R2E S25 SWSW,H,Linn,9/11/20 13:54,Under Invest,0.25,0.25
+2020,77 - East Lane,East Lane,78,58 MP 9 STAT,T19S R1W S7 NENE,X,Lane,9/2/20 7:38,Equipment Use,0.01,0.01
+2020,77 - East Lane,East Lane,79,Row River Mower,T21S R2W S13 SWSW,L,Lane,9/2/20 19:07,Equipment Use,0.1,0.1
+2020,77 - East Lane,East Lane,80,Clause Rd STAT,T19S R1E S33 NWNW,H,Lane,9/4/20 15:00,Recreationist,0.15,0.15
+2020,77 - East Lane,Sweet Home,80,Johnson Creek,T14S R1W S9 NWNW,F,Linn,9/14/20 4:00,Arson,0.1,0.1
+2020,77 - East Lane,Sweet Home,81,Whiskey Butte #1,T13S R1E S36 NESW,F,Linn,9/14/20 4:40,Arson,0.1,0.1
+2020,77 - East Lane,Sweet Home,82,Whiskey Butte #2,T14S R1E S1 NWNE,H,Linn,9/14/20 4:35,Arson,0.01,0.01
+2020,77 - East Lane,Sweet Home,83,Whiskey Butte #3,T14S R2E S8 SWNE,F,Linn,9/14/20 4:56,Arson,0.1,0.1
+2020,77 - East Lane,Sweet Home,84,Scott Mtn 1414,T14S R1W S4 SWSW,L,Linn,9/14/20 4:41,Arson,0.01,0.01
+2020,77 - East Lane,Sweet Home,85,Scott Mtn 13133,T13S R1W S33 NWSW,L,Linn,9/14/20 4:45,Arson,0.01,0.01
+2020,77 - East Lane,Sweet Home,86,Scott Mtn 5-way,T13S R1W S33 SESE,L,Linn,9/14/20 5:10,Arson,0.01,0.01
+2020,77 - East Lane,Sweet Home,87,Whiskey Butte #4,T14S R2E S11 NWSW,F,Linn,9/14/20 5:30,Arson,0.07,0.07
+2020,77 - East Lane,East Lane,88,Holiday Farm,T16S R4E S28 NWSE,,Lane,9/7/20 21:00,Under Invest,142281,173094
+2020,77 - East Lane,Sweet Home,88,Fern Ridge Fence Post,T13S R1W S34 SESW,H,Linn,9/15/20 4:52,Arson,0.01,0.01
+2020,77 - East Lane,East Lane,90,Little Fall Creek STAT,T18S R1W S25 NENE,R,Lane,9/9/20 22:11,Under Invest,0.44,0.44
+2020,77 - East Lane,Sweet Home,90,Scott Mountain #5,T14S R1W S4 SWNW,H,Linn,9/15/20 17:51,Arson,0,0
+2020,77 - East Lane,Sweet Home,91,High Deck 300 Gate #1,T13S R2E S25 SESW,F,Linn,9/16/20 11:35,Arson,0.01,0.01
+2020,77 - East Lane,Sweet Home,92,High Deck 300 Gate #2,T13S R2E S25 SESW,F,Linn,9/16/20 13:20,Arson,0.01,0.01
+2020,77 - East Lane,Sweet Home,99,Triple T,T13S R3E S27 SWSW,X,Linn,9/27/20 10:49,Equipment Use,0,0
+2020,77 - East Lane,East Lane,100,Little Fall Cr Lightning,T18S R1E S11 SESE,,Lane,9/18/20 16:03,Lightning,0.1,
+2020,77 - East Lane,East Lane,102,Drury Butte,T16S R1W S30 SENE,J,Lane,9/19/20 13:32,Lightning,0.1,0.1
+2020,77 - East Lane,East Lane,104,Dexter Lightning,T19S R1W S17 NESW,,Lane,9/21/20 10:21,Lightning,0.1,
+2020,77 - East Lane,East Lane,118,94464 Marcola,T15S R1W S28 SWNE,L,Lane,3/21/20 14:06,Debris Burning,0.1,0.1
+2020,77 - East Lane,East Lane,119,39775 Jasper Rd,T19S R1W S3 NENE,F,Lane,3/22/20 15:15,Debris Burning,1,1
+2020,77 - East Lane,East Lane,123,Shoestring Rd,T22S R3W S30 SWNE,F,Lane,4/12/20 13:27,Debris Burning,0.1,0.1
+2020,77 - East Lane,East Lane,127,Stell Creek,T22S R S33 NENE,G,Lane,5/30/20 20:50,Lightning,0.1,0.1
+2020,78 - West Lane,West Lane,1,Smith River Slash,T20S R7W S35 SENW,I,Douglas,7/3/20 13:03,Debris Burning,0.01,0.01
+2020,78 - West Lane,West Lane,3,Pepsi Fire,T18S R3W S10 SENE,L,Lane,7/12/20 13:20,Equipment Use,0.01,0.01
+2020,78 - West Lane,West Lane,4,King Estate,T20S R5W S02 SENE,L,Lane,7/15/20 11:35,Equipment Use,0.02,0.02
+2020,78 - West Lane,West Lane,5,Kamapheema,T18S R3W S18 SWNW,L,Lane,7/16/20 11:00,Miscellaneous,0.01,0.01
+2020,78 - West Lane,West Lane,6,HWY 36 MP 20,T17S R8W S3 NWSW,A,Lane,7/17/20 13:00,Equipment Use,0.1,0.1
+2020,78 - West Lane,West Lane,8,Ferguson,T15S R5W S29 NWNW,L,Lane,7/23/20 12:00,Equipment Use,0.01,0.01
+2020,78 - West Lane,West Lane,9,Hwy 101,T18S R12W S26 NWSW,X,Lane,7/23/20 17:12,Smoking,0.01,0.01
+2020,78 - West Lane,West Lane,10,Turnbow,T15S R5W S31 NWNW,L,Lane,7/29/20 12:30,Equipment Use,0.01,0.01
+2020,78 - West Lane,West Lane,11,Hawley Creek,T20S R4W S5 SWSW,L,Lane,7/29/20 13:23,Equipment Use,0.05,0.05
+2020,78 - West Lane,West Lane,12,24th & Munsel,T18S R12W S23 NWSE,U,Lane,7/29/20 16:03,Recreationist,0.1,0.1
+2020,78 - West Lane,West Lane,14,Siuslaw Access,T20S R6W S12 NENE,H,Lane,7/31/20 12:38,Equipment Use,0.71,0.71
+2020,78 - West Lane,West Lane,15,Briggs Hill Winery,T18S R5W S34 SENE,A,Lane,8/1/20 12:53,Equipment Use,0.1,0.1
+2020,78 - West Lane,West Lane,17,Hawks View Brush,T18S R6W S1 NWNE,F,Lane,8/4/20 13:53,Juveniles,0.1,0.1
+2020,78 - West Lane,West Lane,18,Spruce Camp,T18S R12W S26 NESW,A,Lane,8/4/20 16:17,Recreationist,0.01,0.01
+2020,78 - West Lane,West Lane,19,Majors Creek,T15S R7W S31 SWSE,,Lane,8/7/20 9:00,Under Invest,4,
+2020,78 - West Lane,West Lane,21,Grassy Drift,T18S R12W S9 SWNW,L,Lane,8/8/20 17:36,Recreationist,0.01,0.01
+2020,78 - West Lane,West Lane,22,Sweet Creek Road,T18S R10W S21 NESE,H,Lane,8/9/20 21:25,Equipment Use,0.1,0.1
+2020,78 - West Lane,West Lane,23,TenMile,T15S R11W S31 NWNE,,Lane,8/13/20 17:15,Equipment Use,0,
+2020,78 - West Lane,West Lane,24,Mapleton Bridge,T18S R10W S2 NWSE,F,Lane,8/14/20 18:31,Equipment Use,0.01,0.01
+2020,78 - West Lane,West Lane,26,North Jetty Trooper,T18S R12W S9 NWSE,L,Lane,8/17/20 17:30,Equipment Use,0.01,0.01
+2020,78 - West Lane,West Lane,29,126 Spots,T17S R6W S36 NENE,A,Lane,8/25/20 17:27,Equipment Use,0.25,0.25
+2020,78 - West Lane,West Lane,30,Kirk Road,T17S R5W S4 SENW,H,Lane,8/28/20 14:45,Arson,2.25,2.25
+2020,78 - West Lane,West Lane,31,Demming Road,T17S R6W S13 NWNE,L,Lane,8/28/20 15:07,Miscellaneous,11.65,11.65
+2020,78 - West Lane,West Lane,32,Red Oak Ln,T17S R6W S33 NWNW,L,Lane,8/28/20 15:44,Equipment Use,0.78,0.78
+2020,78 - West Lane,West Lane,33,Penn Road,T18S R6W S6 SENW,F,Lane,8/28/20 16:49,Arson,0.02,0.02
+2020,78 - West Lane,West Lane,34,Old Lorane Hwy,T20S R5W S13 SENW,F,Lane,8/29/20 11:30,Equipment Use,0.01,0.01
+2020,78 - West Lane,West Lane,35,Sweet Creek Moss,T18S R10W S14 NENW,F,Lane,8/29/20 12:42,Miscellaneous,0.01,0.01
+2020,78 - West Lane,West Lane,37,Sweet Creek MP 2,T18S R10W S11 SENE,,Lane,8/30/20 14:27,Under Invest,307,307
+2020,78 - West Lane,West Lane,39,Wolf Creek,T18S R5W S30 SWSW,A,Lane,8/31/20 22:40,Equipment Use,0.01,0.01
+2020,78 - West Lane,West Lane,41,Camas Swale,T19S R4W S11 SWSE,L,Lane,9/5/20 12:16,Equipment Use,0.25,0.25
+2020,78 - West Lane,West Lane,42,Elm Street,T20S R3W S20 SESW,F,Lane,9/6/20 6:34,Arson,0.12,0.12
+2020,78 - West Lane,West Lane,45,HWY 36 MP 7,T17S R9W S30 NWSE,H,Lane,9/8/20 1:14,Equipment Use,1.1,1.1
+2020,78 - West Lane,West Lane,46,Mercer Tree,T17S R12W S36 NWSE,R,Lane,9/8/20 10:03,Equipment Use,0.2,0.2
+2020,78 - West Lane,West Lane,47,Kirk Rd #2,T17S R5W S4 SENW,H,Lane,9/8/20 16:34,Equipment Use,1.29,1.29
+2020,78 - West Lane,West Lane,51,Fox Hollow,T19S R4W S5 SWNW,C,Lane,9/10/20 12:34,Under Invest,0.24,0.24
+2020,78 - West Lane,West Lane,54,Yellow Lightning,T20S R7W S17 NWSW,H,Lane,9/18/20 10:32,Lightning,0.01,0.01
+2020,78 - West Lane,West Lane,55,Holland Lightning,T19S R6W S32 NWSW,H,Lane,9/18/20 12:10,Lightning,0.01,0.01
+2020,78 - West Lane,West Lane,59,Panther Creek,T20S R6W S19 SWSE,H,Lane,9/20/20 18:45,Lightning,0.15,0.15
+2020,78 - West Lane,West Lane,60,Territorial Native,T20S R5W S13 NESW,L,Lane,4/16/20 12:50,Equipment Use,0.01,0.01
+2020,78 - West Lane,West Lane,61,23264 Hwy 36,T16S R6W S21 SESW,L,Lane,4/16/20 14:45,Debris Burning,0.16,0.16
+2020,78 - West Lane,West Lane,61,I-5 EXIT 191,T18S R3W S3 NESE,F,Lane,9/23/20 6:45,Miscellaneous,0.08,0.08
+2020,78 - West Lane,West Lane,62,Carpenter,T20S R5W S23 SENE,H,Lane,9/23/20 16:20,Miscellaneous,17.52,17.52
+2020,78 - West Lane,West Lane,62,N. Modesto,T18S R4W S7 SWSW,L,Lane,4/16/20 16:34,Debris Burning,0.08,0.08
+2020,78 - West Lane,West Lane,63,81185 N. Jackson,T19S R3W S33 SESW,H,Lane,4/16/20 17:15,Debris Burning,1.38,1.38
+2020,78 - West Lane,West Lane,63,Sarvisberry,T18S R4W S29 NESE,L,Lane,9/24/20 15:19,Miscellaneous,0.54,0.54
+2020,78 - West Lane,West Lane,65,MP 39,T17S R7W S25 NENE,H,Lane,6/26/20 11:58,Equipment Use,0.22,0.22
+2020,78 - West Lane,West Lane,65,Timber Ridge,T19S R6W S18 SWSE,H,Lane,9/28/20 23:18,Equipment Use,1.7,1.7
+2020,78 - West Lane,West Lane,66,25th Oak,T18S R12W S22 SESE,X,Lane,9/29/20 15:36,Smoking,0.01,0.01
+2020,95 - Central Oregon,Prineville,1,Ochoco Viewpoint 0354,T15S R16E S6 SWNW,A,Crook,7/4/20 22:02,Miscellaneous,0.5,0.5
+2020,95 - Central Oregon,John Day,1,Wagon,T9S R26E S12 SWSW,A,Grant,7/1/20 13:07,Under Invest,30.8,30.8
+2020,95 - Central Oregon,The Dalles,2,Woodcock Road,T4S R12E S22 SENW,A,Wasco,7/7/20 15:00,Debris Burning,0,0.1
+2020,95 - Central Oregon,John Day,3,School Craft,T7S R30E S5 NENE,C,Umatilla,7/3/20 14:33,Under Invest,1,1
+2020,95 - Central Oregon,John Day,4,East Point,T12S R21E S36 SWNE,C,Wheeler,7/5/20 11:27,Lightning,1.81,1.81
+2020,95 - Central Oregon,The Dalles,4,MP 57 I 84,T3N R10E S31 SWNW,H,Hood River,7/8/20 23:57,Railroad,0,0.1
+2020,95 - Central Oregon,John Day,5,Clark Lake,T8S R23E S4 SENW,C,Wheeler,7/7/20 12:45,Lightning,0.1,0.1
+2020,95 - Central Oregon,The Dalles,5,Dee Chip Pile,T2N R10E S32 SENW,X,Hood River,7/16/20 14:43,Miscellaneous,0.1,0.1
+2020,95 - Central Oregon,Sisters,5,Pilot Butte Fireworks,T17S R12E S34 SWNW,A,Deschutes,7/4/20 22:01,Recreationist,0.01,0.01
+2020,95 - Central Oregon,Prineville,6,East Grizzly 0492,T13S R15E S27 SENW,T,Crook,7/27/20 18:15,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,6,Deardorff,T13S R34E S36 SENE,C,Grant,7/12/20 15:13,Equipment Use,56,56
+2020,95 - Central Oregon,Prineville,7,Little Grizzly 0493,T13S R15E S22 NESE,U,Crook,7/27/20 18:44,Lightning,4,4
+2020,95 - Central Oregon,Prineville,8,Cat Mountain 0503,T11S R17E S35 NESW,C,Deschutes,7/28/20 16:25,Lightning,1.5,1.5
+2020,95 - Central Oregon,John Day,8,Harper,T14S R30E S9 SENW,T,Grant,7/25/20 16:25,Debris Burning,0,9.4
+2020,95 - Central Oregon,The Dalles,9,River Song,T2N R10E S20 SESW,H,Hood River,7/21/20 12:58,Miscellaneous,0.85,0.85
+2020,95 - Central Oregon,Prineville,10,RED ROCK 0655,T11S R19E S27 NWNW,H,Crook,8/16/20 14:10,Lightning,2.9,2.9
+2020,95 - Central Oregon,John Day,10,Sulpher Gulch,T7S R30E S1 NESE,H,Grant,7/29/20 12:48,Lightning,1.2,2.2
+2020,95 - Central Oregon,John Day,11,Stewarts Crossing,T12S R27E S26 SESE,T,Grant,7/29/20 14:25,Lightning,1.15,1.15
+2020,95 - Central Oregon,The Dalles,11,Oak Grove,T2N R10E S17 NENE,H,Hood River,7/23/20 6:34,Miscellaneous,0.1,0.1
+2020,95 - Central Oregon,Sisters,11,Finley 0378,T22S R11E S18 NWSW,C,Deschutes,7/8/20 14:31,Arson,0.01,50
+2020,95 - Central Oregon,John Day,15,Coal Pit,T14S R30E S24 NESW,C,Grant,7/30/20 20:33,Under Invest,0.1,0.1
+2020,95 - Central Oregon,The Dalles,15,MP 13 HWY 216,T5S R11E S25 SENW,X,Wasco,7/28/20 9:35,Debris Burning,0.01,0.01
+2020,95 - Central Oregon,John Day,16,Pine Tree Spring,T12S R32E S30 NWNW,U,Grant,8/1/20 15:42,Lightning,0.33,0.33
+2020,95 - Central Oregon,Sisters,16,RIATA 0420,T15S R10E S11 NWNW,I,Deschutes,7/17/20 9:36,Equipment Use,0.1,0.1
+2020,95 - Central Oregon,The Dalles,17,Fir Mountain,T1N R11E S8 SESW,J,Hood River,8/1/20 22:05,Recreationist,313,313
+2020,95 - Central Oregon,John Day,18,Long Creek,T10S R30E S2 SENW,A,Grant,8/4/20 5:03,Debris Burning,0.1,0.1
+2020,95 - Central Oregon,Prineville,20,Ochoco Creek 0081,T14S R18E S22 NWSW,C,Crook,4/14/20 15:18,Debris Burning,1.26,1.26
+2020,95 - Central Oregon,Sisters,20,Zaget 0433,T20S R11E S30 NESW,L,Deschutes,7/19/20 10:28,Equipment Use,0.1,0.1
+2020,95 - Central Oregon,Prineville,21,Polly 0109,T14S R17E S36 NESE,C,Crook,5/2/20 13:57,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,21,Buckhorn Creek,T11S R25E S22 SWSW,T,Wheeler,8/5/20 16:22,Lightning,233,233
+2020,95 - Central Oregon,The Dalles,21,MP 71 I-84,T3N R12E S31 SWSW,A,Wasco,8/12/20 16:31,Equipment Use,0,1
+2020,95 - Central Oregon,Sisters,21,HWY 20 0450,T15S R10E S25 NWNE,F,Deschutes,7/21/20 13:36,Miscellaneous,0.1,0.1
+2020,95 - Central Oregon,Prineville,22,Rocky Butte 0112,T14S R18E S7 NENE,C,Crook,5/4/20 15:15,Lightning,0.17,0.17
+2020,95 - Central Oregon,John Day,22,War Canyon,T10S R31E S5 NWSW,F,Grant,8/5/20 16:36,Lightning,112.3,112.3
+2020,95 - Central Oregon,The Dalles,22,Mosier Creek,T2N R12E S18 NWSW,H,Wasco,8/12/20 16:30,Smoking,985,985
+2020,95 - Central Oregon,Prineville,23,Schneider Way 0193,T13S R16E S22 NENW,U,Crook,6/3/20 14:32,Debris Burning,0.2,0.2
+2020,95 - Central Oregon,John Day,23,Coyote Gulch,T12S R32E S31 NWSE,C,Grant,8/5/20 18:52,Lightning,0.3,0.3
+2020,95 - Central Oregon,The Dalles,24,Oak Ridge Drive 2,T2N R11E S6 SWSE,H,Hood River,8/18/20 18:11,Equipment Use,1.6,1.6
+2020,95 - Central Oregon,Prineville,25,Teller Flats 0281 OD,T10S R15E S35 NESW,A,Crook,6/23/20 12:00,Miscellaneous,0,946
+2020,95 - Central Oregon,John Day,25,Pass Creek,T9S R31E S31 NWSE,A,Grant,8/5/20 17:06,Lightning,1.6,1.6
+2020,95 - Central Oregon,The Dalles,25,Sevenmile,T2N R12E S23 SWSW,A,Wasco,8/19/20 17:01,Equipment Use,100,100
+2020,95 - Central Oregon,Sisters,26,Helbrock 514,T21S R10E S1 NENE,C,Deschutes,7/29/20 13:32,Debris Burning,0.01,0.01
+2020,95 - Central Oregon,John Day,27,Swickey Canyon,T9S R31E S27 NWNW,H,Grant,8/5/20 17:09,Lightning,0.1,0.1
+2020,95 - Central Oregon,The Dalles,28,White River,T4S R10E S32 SENW,H,Wasco,8/17/20 9:07,Lightning,5523.4,17404.9
+2020,95 - Central Oregon,Sisters,28,Fall River 0548,T20S R10E S33 SWSE,C,Deschutes,8/4/20 14:57,Miscellaneous,0.1,0.1
+2020,95 - Central Oregon,The Dalles,29,Viento Creek,T3N R9E S34 SESE,H,Hood River,9/1/20 16:43,Equipment Use,0,0.1
+2020,95 - Central Oregon,Sisters,30,Taylor Fire 0563,T17S R11E S27 NESW,A,Deschutes,8/5/20 17:32,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,31,Bull Canyon,T11S R25E S11 NWSE,C,Wheeler,8/5/20 18:38,Lightning,5,5
+2020,95 - Central Oregon,The Dalles,31,Sevenmile 2,T2N R12E S23 SESW,A,Wasco,9/7/20 14:41,Equipment Use,1.19,1.19
+2020,95 - Central Oregon,Sisters,31,Wilt Road 0571,T14S R10E S13 SENW,R,Deschutes,8/5/20 18:33,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,32,Long Hollow,T11S R28E S7 NESE,C,Grant,8/5/20 17:20,Lightning,0.1,0.1
+2020,95 - Central Oregon,The Dalles,32,Thompson Lake,T3N R12E S31 NESW,C,Wasco,9/8/20 11:56,Railroad,0,1.9
+2020,95 - Central Oregon,Sisters,32,Wampus 0572,T22S R9E S11 NWNE,U,Deschutes,8/5/20 18:39,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,33,Marks Creek,T12S R28E S18 SWNE,C,Grant,8/5/20 19:24,Lightning,2.72,2.72
+2020,95 - Central Oregon,The Dalles,33,Rowena Creek,T2N R12E S8 NESE,A,Wasco,9/8/20 13:19,Equipment Use,2.63,2.63
+2020,95 - Central Oregon,Sisters,33,Three Creeks 1 0578,T16S R10E S31 NENW,F,Deschutes,8/5/20 20:31,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,34,Grub Creek,T12S R32E S34 NESE,C,Grant,8/5/20 20:00,Lightning,0.25,0.25
+2020,95 - Central Oregon,Sisters,34,Three Creeks 2 0580,T16S R10E S31 NENW,F,Deschutes,8/5/20 21:49,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,35,Pismire Camp,T12S R28E S4 SESW,U,Grant,8/5/20 19:47,Lightning,0.1,0.1
+2020,95 - Central Oregon,The Dalles,35,Mountain View,T2N R12E S22 SESE,A,Wasco,9/19/20 12:46,Equipment Use,1.19,1.19
+2020,95 - Central Oregon,John Day,36,Troutman Gulch,T9S R31E S28 SENE,H,Grant,8/5/20 20:59,Lightning,0.1,0.1
+2020,95 - Central Oregon,Sisters,36,GT1 0584,T22S R9E S26 NESE,H,Deschutes,8/6/20 8:02,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,37,Castle Creek,T12S R32E S28 NWSE,C,Grant,8/5/20 22:52,Lightning,0.1,0.1
+2020,95 - Central Oregon,Sisters,37,Creek Fire 0591,T16S R10E S8 NWSW,C,Deschutes,8/6/20 11:54,Lightning,0.01,0.01
+2020,95 - Central Oregon,The Dalles,39,Imai Road,T1N R9E S12 NESW,H,Hood River,10/8/20 8:36,Recreationist,0.1,0.1
+2020,95 - Central Oregon,The Dalles,40,Fir Mountain 2,T2N R11E S19 SESW,A,Hood River,10/8/20 13:55,Debris Burning,0.5,1.94
+2020,95 - Central Oregon,Sisters,40,Ferndell 0626,T22S R9E S35 SENE,U,Deschutes,8/11/20 16:25,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,41,Morris,T10S R34E S1 SWSW,C,Grant,8/6/20 19:50,Lightning,0.1,0.5
+2020,95 - Central Oregon,John Day,43,Airport,T9S R30E S34 SWSW,A,Grant,8/8/20 4:41,Equipment Use,9.5,9.5
+2020,95 - Central Oregon,Sisters,43,Glendale 0643,T20S R10E S12 NESE,C,Deschutes,8/15/20 12:22,Debris Burning,0.04,0.04
+2020,95 - Central Oregon,The Dalles,44,White River,T5S R12E S4 SWSE,C,Wasco,3/8/20 16:00,Recreationist,0,0.55
+2020,95 - Central Oregon,John Day,45,Meathouse,T6S R25E S11 SENE,C,Morrow,8/16/20 16:07,Lightning,0.1,0.1
+2020,95 - Central Oregon,The Dalles,45,Threemile Fire,T4S R12E S8 SWSW,C,Wasco,4/7/20 18:00,Debris Burning,4.27,4.27
+2020,95 - Central Oregon,John Day,46,Boneyard,T7S R27E S20 NENE,L,Grant,8/16/20 16:22,Lightning,22,22
+2020,95 - Central Oregon,John Day,47,Butte Creek,T8S R22E S5 SWSE,C,Wheeler,8/16/20 18:07,Lightning,0.1,0.1
+2020,95 - Central Oregon,The Dalles,47,Oak Ridge Drive,T2N R11E S6 SESE,C,Hood River,5/28/20 11:14,Debris Burning,0.07,0.07
+2020,95 - Central Oregon,John Day,48,Lost Valley,T6S R22E S25 SWSE,C,Wheeler,8/16/20 18:30,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,49,Black Rock,T7S R27E S25 SENW,A,Grant,8/17/20 9:25,Lightning,0.1,0.1
+2020,95 - Central Oregon,The Dalles,49,Endersby,T5S R11E S23 NWNW,C,Wasco,6/7/20 13:51,Recreationist,0.14,0.14
+2020,95 - Central Oregon,Sisters,49,GREEN RIDGE 0684,T13S R9E S1 SESW,H,Jefferson,8/16/20 17:05,Lightning,3117,4338
+2020,95 - Central Oregon,John Day,51,Birch Creek,T12S R29E S34 SESW,U,Grant,8/17/20 15:49,Lightning,0.25,0.25
+2020,95 - Central Oregon,Sisters,51,Haner 704,T22S R9E S22 NENW,C,Deschutes,8/17/20 10:27,Lightning,0.1,0.1
+2020,95 - Central Oregon,The Dalles,52,Viento,T3N R9E S34 SESW,C,Hood River,6/23/20 16:53,Equipment Use,0,0.1
+2020,95 - Central Oregon,The Dalles,53,Rowena,T2N R12E S12 NESW,C,Wasco,6/28/20 13:08,Recreationist,14,14
+2020,95 - Central Oregon,The Dalles,54,Hood River Island,T3N R10E S36 SWSE,J,Hood River,6/30/20 19:00,Recreationist,0.1,0.1
+2020,95 - Central Oregon,Sisters,55,Upland 0724,T20S R10E S13 SESW,C,Deschutes,8/18/20 13:21,Miscellaneous,0.01,0.01
+2020,95 - Central Oregon,Sisters,56,Hawks Lair 779,T21S R10E S15 SESW,C,Deschutes,8/24/20 12:21,Miscellaneous,0.1,0.1
+2020,95 - Central Oregon,John Day,57,Rock Spring,T6S R25E S34 SWSE,C,Morrow,8/18/20 16:42,Lightning,0.01,0.01
+2020,95 - Central Oregon,Sisters,60,Coach 0856,T22S R10E S11 NWSW,C,Deschutes,9/6/20 17:06,Arson,0.2,0.2
+2020,95 - Central Oregon,John Day,61,Mailbox,T9S R30E S15 SWSE,A,Grant,8/19/20 10:04,Equipment Use,5.5,5.5
+2020,95 - Central Oregon,Sisters,61,Hermosa 0866,T20S R10E S12 SESW,U,Deschutes,9/7/20 16:13,Equipment Use,0.25,0.25
+2020,95 - Central Oregon,John Day,63,Laurel,T9S R24E S35 NWSE,T,Wheeler,8/19/20 11:31,Lightning,677,1280
+2020,95 - Central Oregon,Sisters,63,Deedon 0881,T21S R10E S34 NWNW,A,Deschutes,9/9/20 11:22,Equipment Use,0.01,0.01
+2020,95 - Central Oregon,John Day,64,Steet Mountain,T8S R28E S2 NWSE,C,Grant,8/19/20 12:15,Lightning,680,680
+2020,95 - Central Oregon,John Day,65,Freezeout,T4S R28E S3 NWSE,C,Morrow,8/19/20 12:24,Lightning,5,5
+2020,95 - Central Oregon,John Day,66,China Peak,T10S R27E S4 NENW,F,Grant,8/19/20 12:34,Lightning,0.1,0.1
+2020,95 - Central Oregon,Sisters,66,Gulch 0920,T13S R10.5W S11 NESE,U,Jefferson,9/19/20 15:29,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,68,Smith Creek,T7S R31E S34 SESE,C,Grant,8/19/20 9:02,Lightning,0.25,0.25
+2020,95 - Central Oregon,John Day,69,Troff Canyon,T8S R29E S18 SWNW,C,Grant,8/19/20 15:53,Lightning,0.5,0.5
+2020,95 - Central Oregon,Sisters,69,Masten 935,T22S R9E S35 SWNW,H,Deschutes,9/26/20 11:24,Recreationist,0.01,0.01
+2020,95 - Central Oregon,John Day,71,Conger,T8S R29E S18 SENE,C,Grant,8/19/20 10:54,Lightning,15,15
+2020,95 - Central Oregon,John Day,73,Two Cabin,T8S R28E S22 NWNW,C,Grant,8/19/20 16:54,Lightning,99,99
+2020,95 - Central Oregon,John Day,74,Jones Canyon,T8S R29E S17 SWNW,C,Grant,8/19/20 12:31,Lightning,0.5,0.5
+2020,95 - Central Oregon,John Day,75,Cochran,T9S R27E S17 SESE,T,Grant,8/19/20 17:35,Lightning,88.1,88.1
+2020,95 - Central Oregon,John Day,80,Threemile Creek,T8S R29E S7 NESW,C,Grant,8/21/20 15:29,Lightning,22,22
+2020,95 - Central Oregon,John Day,81,Spring Hollow,T8S R29E S4 NWSE,C,Grant,8/23/20 17:16,Lightning,0.54,0.54
+2020,95 - Central Oregon,John Day,83,Blackhorse,T18S R28E S5 SESW,T,Grant,8/25/20 9:44,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,84,Utley,T18S R28E S5 SESW,T,Grant,8/25/20 9:44,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,85,Magill,T17S R28E S33 NWSW,L,Grant,8/25/20 12:27,Lightning,1.78,1.78
+2020,95 - Central Oregon,John Day,87,Antelope,T18S R28E S5 SWSE,T,Grant,8/25/20 16:26,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,90,Waterman,T12S R23E S18 SENE,A,Wheeler,9/9/20 20:15,Under Invest,0.25,0.25
+2020,95 - Central Oregon,John Day,91,Grouse Creek,T12S R31E S30 SENW,C,Grant,9/18/20 18:45,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,92,Alder Branch,T10S R30E S24 SENW,C,Grant,9/18/20 19:06,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,95,Ritter,T8S R29E S36 SENE,A,Grant,9/21/20 15:51,Lightning,676,676
+2020,95 - Central Oregon,John Day,96,Haystack,T8S R25E S15 SWSE,,Grant,10/8/20 14:38,Under Invest,117,117
+2020,95 - Central Oregon,Sisters,111,Deer Ave 025,T22S R10E S17 SENW,L,Deschutes,2/25/20 15:01,Debris Burning,0.8,0.8
+2020,95 - Central Oregon,Sisters,113,Sweet Grass 0027,T18S R13E S30 NWSE,T,Deschutes,2/28/20 14:16,Debris Burning,0.25,0.25
+2020,95 - Central Oregon,Sisters,114,Bridge Dr 028,T21S R10E S26 SWNE,L,Deschutes,2/29/20 16:00,Debris Burning,7.5,7.5
+2020,95 - Central Oregon,Sisters,116,Spur 0083,T22S R10E S6 NWSE,C,Deschutes,4/15/20 11:05,Debris Burning,0.12,0.12
+2020,95 - Central Oregon,John Day,118,Nans Rock,T14S R31E S19 SWNW,H,Grant,4/30/20 6:57,Lightning,0.1,0.1
+2020,95 - Central Oregon,Sisters,119,Bull Creek 0087,T17S R10E S14 NESW,U,Deschutes,4/16/20 16:39,Recreationist,1.3,1.3
+2020,95 - Central Oregon,John Day,120,Morgan Mountain,T17S R27E S10 SESE,A,Grant,5/30/20 7:59,Lightning,0.1,0.1
+2020,95 - Central Oregon,John Day,121,Gilmore Creek,T9S R26E S34 SESW,H,Grant,5/30/20 8:01,Lightning,0.1,0.1
+2020,95 - Central Oregon,Sisters,122,Vandevert 98,T20S R11E S17 NESE,C,Deschutes,4/28/20 11:49,Arson,0.01,0.01
+2020,95 - Central Oregon,Sisters,123,500 RD 0099,T22S R10E S5 NWNW,C,Deschutes,4/28/20 12:01,Arson,0.01,0.01
+2020,95 - Central Oregon,John Day,124,Laycock,T14S R30E S11 SENW,A,Grant,5/30/20 18:40,Lightning,0.1,0.1
+2020,95 - Central Oregon,Sisters,124,Blazer Lane 0110,T14S R11E S6 NWNE,X,Deschutes,5/3/20 13:25,Equipment Use,0.01,0.01
+2020,95 - Central Oregon,John Day,125,Iron Mountain,T10S R24E S30 SENW,C,Wheeler,6/2/20 7:19,Lightning,0.31,0.31
+2020,95 - Central Oregon,Sisters,125,Island Loop 0111,T20S R10E S13 NWSE,L,Deschutes,5/3/20 17:49,Miscellaneous,0.25,0.25
+2020,95 - Central Oregon,Sisters,126,Ammon Rd 0113,T21S R11E S32 SWSW,U,Deschutes,5/4/20 17:54,Miscellaneous,0.01,0.01
+2020,95 - Central Oregon,Sisters,127,Drafter Rd 0118,T21S R10E S36 SENE,U,Deschutes,5/7/20 11:44,Miscellaneous,0.1,0.1
+2020,95 - Central Oregon,Sisters,128,Rimrock 0122,T14S R11E S3 NWSW,U,Deschutes,5/10/20 9:35,Debris Burning,0.1,0.1
+2020,95 - Central Oregon,Sisters,134,0559 Road Fire 0144,T22S R10E S6 NESE,X,Deschutes,5/22/20 12:08,Debris Burning,0.01,0.01
+2020,95 - Central Oregon,Sisters,138,Chestnut 0177,T15S R10E S3 NENE,C,Deschutes,5/30/20 15:52,Lightning,0.01,0.01
+2020,95 - Central Oregon,Sisters,139,Akawa - 182,T13S R10E S2 SENE,C,Jefferson,5/31/20 13:23,Lightning,0.02,0.02
+2020,95 - Central Oregon,Sisters,141,Mountain View 0222,T14S R11E S9 SWNW,L,Deschutes,6/11/20 16:38,Lightning,0.01,0.01
+2020,95 - Central Oregon,Sisters,142,Pinewood - 251,T20S R10E S36 NWNW,K,Deschutes,6/16/20 18:28,Debris Burning,0.01,0.01
+2020,95 - Central Oregon,Sisters,144,Edgington Road 0269,T15S R10E S8 SESW,J,Deschutes,6/21/20 10:48,Debris Burning,0.1,0.1
+2020,95 - Central Oregon,Sisters,149,Ponderosa Street 0307,T18S R12E S20 NENE,H,Deschutes,6/28/20 11:45,Equipment Use,0.25,0.25
+2020,97 - Northeast Oregon,La Grande,1,Ladd,T5S R38E S3 NWNE,C,Union,7/7/20 13:20,Lightning,0.01,0.01
+2020,97 - Northeast Oregon,Pendleton,1,Schoolcraft,T7S R30E S5 NENE,C,Grant,7/3/20 14:14,Equipment Use,69.9,95.7
+2020,97 - Northeast Oregon,La Grande,2,Red Ridge,T5S R38E S27 SWSE,C,Union,7/7/20 16:30,Lightning,0.77,0.77
+2020,97 - Northeast Oregon,La Grande,3,Pumpkin Ridge,T1N R39E S30 SENE,C,Union,7/10/20 13:38,Miscellaneous,0.5,0.5
+2020,97 - Northeast Oregon,Baker,3,Rock Creek,T7S R38E S32 NWSE,H,Baker,7/8/20 14:00,Lightning,0.01,0.01
+2020,97 - Northeast Oregon,Pendleton,3,Wildhorse Road,T3N R36E S7 NESE,C,Umatilla,7/8/20 14:07,Lightning,0.2,0.2
+2020,97 - Northeast Oregon,Wallowa,3,Kramer Wayside,T2N R41E S27 SESW,A,Wallowa,8/6/20 6:48,Lightning,0.18,0.18
+2020,97 - Northeast Oregon,Pendleton,4,Little Dry Creek,T4N R36E S30 NENE,C,Umatilla,7/9/20 16:32,Lightning,1,1
+2020,97 - Northeast Oregon,Wallowa,4,Sopher,T2N R41E S15 NESE,C,Wallowa,8/6/20 8:04,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,Baker,5,HWY Fire,T12S R37E S32 SWSE,A,Baker,7/25/20 13:23,Miscellaneous,0.1,0.1
+2020,97 - Northeast Oregon,La Grande,6,Vey,T6S R35.5E S1 NESW,C,Union,7/28/20 16:42,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,Wallowa,6,T-Post,T5N R43E S09 NWSE,C,Wallowa,8/6/20 8:57,Lightning,0.01,0.01
+2020,97 - Northeast Oregon,Baker,7,Beaver Dam,T11S R38E S32 NESW,C,Baker,7/29/20 20:04,Lightning,0.12,0.12
+2020,97 - Northeast Oregon,La Grande,8,Z Road,T2S R40E S34 SWNE,A,Union,7/29/20 21:06,Lightning,2,2
+2020,97 - Northeast Oregon,Pendleton,8,Matlock,T4S R29E S22 SENE,C,Morrow,7/28/20 15:43,Lightning,0,73.81
+2020,97 - Northeast Oregon,Pendleton,9,Deerhorn,T6S R31E S18 SENE,C,Umatilla,7/29/20 10:12,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,Wallowa,9,Lakeshore,T3S R45E S21 NWSW,X,Wallowa,8/16/20 20:20,Recreationist,0.1,0.1
+2020,97 - Northeast Oregon,La Grande,10,Meadow Cow,T3S R35E S30 SESW,C,Union,7/30/20 12:30,Lightning,1,1
+2020,97 - Northeast Oregon,Pendleton,10,Day Canyon,T6S R31E S3 NENE,L,Umatilla,7/29/20 19:11,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,Wallowa,10,Voltage,T1N R43E S19 NWSW,A,Wallowa,8/17/20 18:33,Lightning,0.05,0.05
+2020,97 - Northeast Oregon,Baker,11,Cottonwood Creek,T12S R38E S5 NWNE,C,Baker,8/6/20 18:00,Lightning,1.06,1.06
+2020,97 - Northeast Oregon,Pendleton,11,Trough Creek,T6S R32E S34 SENW,C,Umatilla,7/29/20 23:25,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,La Grande,12,Stubblefield,T1N R40E S23 NESE,A,Union,8/6/20 14:46,Lightning,6.5,6.5
+2020,97 - Northeast Oregon,Baker,12,Dry Gulch,T8S R45E S33 NENW,A,Baker,8/10/20 11:30,Under Invest,0,297
+2020,97 - Northeast Oregon,Wallowa,12,Johnson Wayside,T1N R42E S6 NWNW,C,Wallowa,8/17/20 20:05,Lightning,0.01,0.01
+2020,97 - Northeast Oregon,La Grande,15,Beaver,T4S R36E S17 NESW,A,Union,8/17/20 17:30,Lightning,0.15,0.15
+2020,97 - Northeast Oregon,Wallowa,15,Sickfoot,T4N R42E S18 NENE,C,Wallowa,8/19/20 7:09,Lightning,0.01,0.01
+2020,97 - Northeast Oregon,La Grande,16,Good Water,T4S R37E S12 SESW,C,Union,8/17/20 18:39,Lightning,0.25,0.25
+2020,97 - Northeast Oregon,Wallowa,16,Eustis Meadows,T3N R41E S27 NWNE,C,Wallowa,8/19/20 11:57,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,Baker,17,Baldy,T13S R40E S19 SWSE,A,Malheur,8/17/20 17:40,Lightning,0,3703
+2020,97 - Northeast Oregon,Wallowa,17,Long Ridge,T2N R47E S36 SESE,L,Wallowa,8/19/20 15:47,Lightning,3,3
+2020,97 - Northeast Oregon,La Grande,18,Midnight,,,,8/19/20 0:37,Lightning,0.25,
+2020,97 - Northeast Oregon,Pendleton,18,Milepost 11,T4N R37E S29 SWSW,X,Umatilla,8/13/20 16:06,Debris Burning,0.1,0.1
+2020,97 - Northeast Oregon,Wallowa,18,Tasmanian,T2N R44E S21 NENW,C,Wallowa,8/19/20 16:30,Lightning,0.25,0.25
+2020,97 - Northeast Oregon,Baker,19,Dutch Gulch,T9S R39E S21 SWNE,C,Baker,8/18/20 23:07,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,Wallowa,19,Pondo,T2N R43E S19 SESW,C,Wallowa,8/19/20 7:15,Lightning,0.06,0.06
+2020,97 - Northeast Oregon,Baker,20,Hwy 7 Marker 31,T10S R38E S15 NWSE,C,Baker,8/19/20 3:58,Lightning,0.01,0.01
+2020,97 - Northeast Oregon,Baker,21,Stub,T9S R39E S28 NWSW,C,Baker,8/21/20 15:17,Lightning,0.02,0.02
+2020,97 - Northeast Oregon,Wallowa,21,School Flat,T1N R44E S31 SWNW,L,Wallowa,8/23/20 14:45,Equipment Use,0.5,0.5
+2020,97 - Northeast Oregon,La Grande,22,Moses Creek,T3N R39E S15 SENE,C,Union,8/19/20 8:12,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,Baker,22,Pipeline,T9S R39E S21 NWSE,C,Baker,8/23/20 8:31,Recreationist,0.6,0.6
+2020,97 - Northeast Oregon,Pendleton,23,Milepost 238,T1S R35E S10 NESE,C,Umatilla,8/17/20 12:01,Arson,0.1,0.1
+2020,97 - Northeast Oregon,La Grande,24,McCoy,,,,8/19/20 11:56,Lightning,2.53,
+2020,97 - Northeast Oregon,Pendleton,25,Deerhorn 2,T6S R31E S20 NWSW,C,Umatilla,8/18/20 23:56,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,Wallowa,25,Ant,T1S R44E S36 NESE,L,Wallowa,9/4/20 11:55,Miscellaneous,1.35,1.35
+2020,97 - Northeast Oregon,Baker,26,Deems Loop,T10S R38E S8 SWSW,C,Baker,9/7/20 14:01,Equipment Use,0.3,0.2
+2020,97 - Northeast Oregon,Pendleton,26,Johnson Canyon,T5S R31E S21 NENE,C,Umatilla,8/19/20 0:20,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,Baker,27,Califonia Mountain,T13S R42E S11 SENW,A,Baker,9/19/20 10:56,Lightning,1.4,1.4
+2020,97 - Northeast Oregon,Wallowa,27,Leggett Gulch,T3S R48E S27 NESW,,,9/11/20 18:30,Miscellaneous,0.1,
+2020,97 - Northeast Oregon,Pendleton,28,Fork,T6S R31E S30 NENW,C,Umatilla,8/19/20 7:27,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,Pendleton,29,Cabin Springs,T3S R32E S26 SWNW,C,Umatilla,8/19/20 9:27,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,Wallowa,29,Flora,T5N R44E S22 SESE,A,Wallowa,9/17/20 12:00,Equipment Use,0.01,0.01
+2020,97 - Northeast Oregon,La Grande,30,Riverbend 244,T3S R37E S6 NWNW,A,Union,3/25/20 10:46,Debris Burning,14,14
+2020,97 - Northeast Oregon,Pendleton,30,Camas,T6S R31E S28 SENE,C,Umatilla,8/19/20 11:11,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,La Grande,31,Early Robbs Hill,T2S R37E S26 SWNE,C,Union,4/20/20 15:52,Debris Burning,4,4
+2020,97 - Northeast Oregon,Pendleton,31,Log Springs,T4S R30E S15 NWSE,C,Umatilla,8/19/20 15:06,Lightning,2.7,2.7
+2020,97 - Northeast Oregon,La Grande,32,Rysdom Canyon,T3N R40E S32 SESE,A,Union,8/21/20 16:20,Lightning,79,79
+2020,97 - Northeast Oregon,Pendleton,32,Ensign,T2S R34E S25 NWSW,C,Umatilla,8/19/20 15:57,Lightning,18.14,23.33
+2020,97 - Northeast Oregon,La Grande,34,Predator,T2S R37E S36 NWSE,C,Union,9/2/20 15:19,Recreationist,0.25,0.25
+2020,97 - Northeast Oregon,Baker,34,Moody,T10S R38E S30 SESW,C,Baker,5/30/20 16:45,Lightning,0.1,0.1
+2020,97 - Northeast Oregon,Pendleton,34,Inc 926,T4N R35E S24 NWSW,L,Umatilla,8/20/20 10:58,Equipment Use,0,0.2
+2020,97 - Northeast Oregon,La Grande,35,Rocky Flat,T2S R37E S15 SENE,C,Union,9/2/20 18:10,Recreationist,0.1,0.1
+2020,97 - Northeast Oregon,Pendleton,35,Allen Creek,T1S R36E S7 SENW,C,Umatilla,8/19/20 11:15,Lightning,0,0.1
+2020,97 - Northeast Oregon,Pendleton,37,Horse,T1N R36E S25 NWNE,C,Umatilla,8/19/20 15:04,Lightning,85.8,169.5
+2020,97 - Northeast Oregon,La Grande,38,Thompson,T2N R40E S10 SENE,C,Union,9/7/20 16:51,Equipment Use,0.1,0.1
+2020,97 - Northeast Oregon,Pendleton,41,Horseshoe Ridge,T1N R36E S34 NWNE,C,Umatilla,8/19/20 13:47,Lightning,1,37.3
+2020,97 - Northeast Oregon,Pendleton,41,Wayside,T6S R31E S21 SESE,C,Umatilla,3/3/20 8:30,Recreationist,0,0.1
+2020,97 - Northeast Oregon,Pendleton,42,Kat Face Pine,T6S R31E S35 SESE,C,Umatilla,3/3/20 17:04,Recreationist,0,0.25
+2020,97 - Northeast Oregon,Pendleton,43,Milepost 6,T4N R36E S28 SWNE,L,Umatilla,3/5/20 14:40,Debris Burning,1.64,1.64
+2020,97 - Northeast Oregon,Pendleton,44,Deerhorn Creek,T6S R31E S29 SWNW,L,Umatilla,4/8/20 15:49,Debris Burning,1.1,1.1
+2020,97 - Northeast Oregon,Pendleton,45,East Fork Butter Creek,T2S R30E S17 NENW,L,Umatilla,9/7/20 20:41,Equipment Use,0,12756
+2020,97 - Northeast Oregon,Wallowa,46,Camp Five,T2N R41E S5 NWSE,C,Wallowa,3/17/20 16:00,Recreationist,5,5
+2020,97 - Northeast Oregon,Wallowa,48,Victor,T1N R42E S3 NESW,A,Wallowa,4/28/20 13:40,Debris Burning,0.1,0.1
+2020,97 - Northeast Oregon,Wallowa,49,Bramlett,T2N R42E S29 NWSE,C,Wallowa,5/11/20 20:57,Lightning,0.01,0.01
+2020,98 - Klamath-Lake,Klamath Falls,3,Bull Pasture 169,T32S R10E S35 SENE,J,Klamath,7/3/20 15:14,Debris Burning,0.4,0.4
+2020,98 - Klamath-Lake,Klamath Falls,4,Mountain Trout 170,T35S R10E S23 NENE,L,Klamath,7/5/20 11:59,Miscellaneous,8.7,8.7
+2020,98 - Klamath-Lake,Lakeview,4,Pothole 182,T37S R16E S11 NESE,,Lake,7/13/20 7:43,Under Invest,4.5,
+2020,98 - Klamath-Lake,Klamath Falls,5,Williamson River 171,T34S R8E S28 NWNW,C,Klamath,7/5/20 14:01,Miscellaneous,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,6,Pine 172,T36S R6E S25 NESE,C,Klamath,7/5/20 21:28,Miscellaneous,0.1,0.1
+2020,98 - Klamath-Lake,Lakeview,7,Ben Young 196,T35S R18E S26 SWSE,,Lake,7/21/20 12:51,Under Invest,1000,
+2020,98 - Klamath-Lake,Klamath Falls,9,King Cole 180,T39S R5E S32 SWNW,A,Klamath,7/12/20 10:12,Miscellaneous,1,1
+2020,98 - Klamath-Lake,Lakeview,13,Branch Whiskey 204,T36S R12W S29 SWSE,,Klamath,7/22/20 16:41,Lightning,0.1,
+2020,98 - Klamath-Lake,Klamath Falls,14,Valley 191,T41S R7E S15 SWNE,U,Klamath,7/19/20 21:13,Miscellaneous,0.6,0.6
+2020,98 - Klamath-Lake,Lakeview,14,Casebeer 205,T37S R15E S7 SWSE,,Klamath,7/22/20 18:26,Lightning,0.1,
+2020,98 - Klamath-Lake,Lakeview,17,South Fork 219,T37S R16E S9 SWSW,,Lake,7/24/20 14:33,Lightning,0.25,
+2020,98 - Klamath-Lake,Klamath Falls,20,Military 218,T29S R7E S25 NENE,C,Klamath,7/24/20 13:18,Miscellaneous,0.44,0.44
+2020,98 - Klamath-Lake,Lakeview,22,Stewart 249,T39S R12E S24 SWSW,,Lake,7/27/20 18:37,Lightning,0.1,
+2020,98 - Klamath-Lake,Klamath Falls,23,Deer Run 225,T37S R11E S1 NWNW,C,Klamath,7/26/20 11:27,Debris Burning,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,24,Cinder 226,T29S R7E S1 SWSW,C,Klamath,7/26/20 13:52,Recreationist,0.1,0.1
+2020,98 - Klamath-Lake,Lakeview,24,White Oak 251,T33S R13E S28 SESW,,Klamath,7/28/20 8:36,Lightning,0.25,
+2020,98 - Klamath-Lake,Klamath Falls,25,Water Wheel 233,T35S R7E S21 SENE,A,Klamath,7/27/20 11:30,Recreationist,0.4,0.4
+2020,98 - Klamath-Lake,Klamath Falls,27,Hummingbird 238,T37S R11E S23 NWNW,A,Klamath,7/27/20 15:53,Lightning,0.1,0.1
+2020,98 - Klamath-Lake,Lakeview,27,Timothy Creek 284,T28S R12E S2 SENW,,Lake,8/6/20 9:49,Lightning,0.1,
+2020,98 - Klamath-Lake,Lakeview,32,Antelope Spring 301,T28S R12E S6 SWNW,,Lake,8/7/20 7:57,Lightning,0.1,
+2020,98 - Klamath-Lake,Klamath Falls,33,Camper 259,T37S R11E S1 NWNW,X,Klamath,7/29/20 1:19,Miscellaneous,0.1,0.1
+2020,98 - Klamath-Lake,Lakeview,33,Shake 302,T33S R15E S19 NWSE,,Klamath,8/7/20 8:18,Lightning,0.1,
+2020,98 - Klamath-Lake,Klamath Falls,38,0,T38S R10E S25 NESW,A,Klamath,8/5/20 16:29,Lightning,0.1,0.1
+2020,98 - Klamath-Lake,Lakeview,38,Black Pine 313,T33S R13E S34 SENE,,Klamath,8/9/20 10:33,Under Invest,0.25,
+2020,98 - Klamath-Lake,Lakeview,38,Gunsite 133,T37S R12E S1 NENW,,Klamath,5/23/20 16:41,Debris Burning,3,
+2020,98 - Klamath-Lake,Lakeview,39,Sycan 136,T35S R13E S31 NWSE,,Klamath,5/27/20 17:22,Under Invest,0.1,
+2020,98 - Klamath-Lake,Lakeview,40,Medicine 137,T36S R12E S24 SWSE,,Klamath,5/28/20 15:05,Debris Burning,0.25,
+2020,98 - Klamath-Lake,Klamath Falls,42,Spring Trail 304,T34S R7E S35 SWNW,A,Klamath,8/7/20 12:25,Miscellaneous,0.1,0.1
+2020,98 - Klamath-Lake,Lakeview,42,Willow Springs 333,T36S R20E S16 NWNE,,Lake,8/15/20 16:46,Lightning,0.25,
+2020,98 - Klamath-Lake,Klamath Falls,44,Powerline 308,T36S R10E S33 SWSW,A,Klamath,8/7/20 19:17,Miscellaneous,0.9,0.9
+2020,98 - Klamath-Lake,Klamath Falls,48,Short 320,T38S R11E S27 NESE,U,Klamath,8/13/20 9:40,Miscellaneous,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,51,Hammerhead 323,T37S R11E S14 SESW,,Klamath,8/13/20 16:29,Under Invest,0.25,
+2020,98 - Klamath-Lake,Lakeview,51,FJ 355,T33S R13E S12 SESE,,Klamath,8/19/20 7:05,Under Invest,0.25,
+2020,98 - Klamath-Lake,Klamath Falls,52,Buckeye 324,T29S R7E S2 SWNE,H,Klamath,8/13/20 17:18,Miscellaneous,0.1,0.1
+2020,98 - Klamath-Lake,Lakeview,54,Duke creek 380,T40S R20E S12 NWNW,,Lake,8/26/20 20:29,Under Invest,2,
+2020,98 - Klamath-Lake,Lakeview,56,Long Branch 382,T39S R14E S1 NENE,,Klamath,8/27/20 3:27,Under Invest,2.1,
+2020,98 - Klamath-Lake,Klamath Falls,57,Burr 351,T34S R7E S15 NWNE,,Klamath,8/17/20 14:05,Miscellaneous,0.1,
+2020,98 - Klamath-Lake,Klamath Falls,58,Black Tail 356,T37S R11E S16 SWNE,H,Klamath,8/19/20 9:52,Equipment Use,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,63,Bull 369,T32S R11E S29 SWNE,H,Klamath,8/25/20 11:32,Lightning,0.1,0.1
+2020,98 - Klamath-Lake,Lakeview,65,Hunter Spring 421,T38S R19E S17 NWNE,,Lake,9/17/20 13:00,Miscellaneous,0.1,
+2020,98 - Klamath-Lake,Klamath Falls,66,Booth 377,T31S R11E S24 NESW,G,Klamath,8/25/20 21:08,Lightning,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,67,Circle 378,T35S R10E S14 SWNE,A,Klamath,8/25/20 21:43,Recreationist,0.1,0.1
+2020,98 - Klamath-Lake,Lakeview,67,Box 436,T36S R17E S06 SWSW,,Lake,10/5/20 7:55,Miscellaneous,0.1,
+2020,98 - Klamath-Lake,Klamath Falls,69,Spinks 384,T34S R7E S34 NWSW,,Klamath,8/27/20 16:07,Under Invest,0.15,
+2020,98 - Klamath-Lake,Klamath Falls,70,Keno 389,T39S R7E S20 SESW,X,Klamath,8/29/20 12:09,Recreationist,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,71,Pit 390,T29S R8E S18 NENE,,Klamath,8/29/20 17:46,Miscellaneous,0.1,
+2020,98 - Klamath-Lake,Klamath Falls,72,Pat Drive 392,T39S R8E S22,,Klamath,8/31/20 22:37,Miscellaneous,0.1,
+2020,98 - Klamath-Lake,Klamath Falls,73,Brown Bear 393,T37S R11E S14 SESE,U,Klamath,9/1/20 18:23,Miscellaneous,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,80,Arrowhead 411,T35S R10E S27 SWSW,,Klamath,9/11/20 1:04,Under Invest,0.1,
+2020,98 - Klamath-Lake,Klamath Falls,84,OC and E 417,T36S R10E S14 NENE,,Klamath,9/15/20 12:54,Under Invest,0.3,
+2020,98 - Klamath-Lake,Klamath Falls,85,Cattle 418,T34S R7E S22 SENE,,Klamath,9/15/20 14:48,Miscellaneous,5,
+2020,98 - Klamath-Lake,Klamath Falls,92,Couch 101,T36S R11E S26 NESE,A,Klamath,2/22/20 12:40,Debris Burning,1.7,1.7
+2020,98 - Klamath-Lake,Klamath Falls,93,Raccoon 103,T38S R11E S11 NWNE,X,Klamath,3/21/20 6:45,Arson,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,96,Sprague River Road 108,T36S R11E S25 NESW,,Klamath,4/8/20 13:08,Debris Burning,11.2,
+2020,98 - Klamath-Lake,Klamath Falls,97,Pumice Pit 109,T28S R8E S15 NWSE,K,Klamath,4/14/20 12:06,Equipment Use,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,98,Bly Cutoff 110,T38S R11E S15 NWNW,U,Klamath,4/16/20 15:03,Debris Burning,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,100,Stone 119,T40S R6E S01 NENE,X,Klamath,4/29/20 12:30,Miscellaneous,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,102,Stone Two 122,T40S R6E S01 NENE,X,Klamath,5/2/20 14:00,Recreationist,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,103,Walla Walla 125,T36S R11E S5 NESW,T,Klamath,5/8/20 14:05,Recreationist,21,21
+2020,98 - Klamath-Lake,Klamath Falls,107,Whispering Pines 129,T40S R8E S18 NENW,C,Klamath,5/10/20 17:30,Arson,3,3
+2020,98 - Klamath-Lake,Klamath Falls,108,Stevenson 130,T39S R10E S12 NWNW,R,Klamath,5/12/20 11:55,Lightning,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,110,Sixty Six 134,T40S R6E S6 NWNW,C,Klamath,5/24/20 12:37,Equipment Use,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,114,Council Butte 144,T36S R10E S11 SENE,A,Klamath,6/7/20 13:35,Debris Burning,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,116,Sheep Creek 147,T31S R11E S17 SWNE,F,Klamath,6/11/20 7:11,Lightning,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,120,Kirk 155,T32S R7E S36 NWSE,X,Klamath,6/17/20 14:49,Recreationist,0.1,0.1
+2020,98 - Klamath-Lake,Klamath Falls,123,Pine Ridge 162,T34S R7E S23 NWNW,L,Klamath,6/27/20 11:18,Miscellaneous,0.16,0.16
+2020,99 - Walker Range,Walker FPA,200,Transients Again,T24S R9E S19 NWNW,,Klamath,7/8/20 2:25,Miscellaneous,0,
+2020,99 - Walker Range,Walker FPA,204,iob,T24S R9E S30 NWSE,,Klamath,7/13/20 15:48,Debris Burning,0,
+2020,99 - Walker Range,Walker FPA,205,Stupid is as stupid does,T24S R9E S30 SWNE,,Klamath,7/13/20 17:25,Debris Burning,0,
+2020,99 - Walker Range,Walker FPA,208,LIFC 273,T26S R12E S2 SESW,,Lake,8/5/20 15:25,Lightning,25,
+2020,99 - Walker Range,Walker FPA,209,2415,T25S R11E S5 NWNW,,Klamath,8/5/20 17:27,Lightning,0.5,
+2020,99 - Walker Range,Walker FPA,211,COC 567,T23S R9E S23 NENE,,Klamath,8/5/20 18:14,Lightning,0.1,
+2020,99 - Walker Range,Walker FPA,212,COC 570,T23S R9E S14 NENE,,Klamath,8/5/20 18:26,Lightning,0.1,
+2020,99 - Walker Range,Walker FPA,215,Northern Klamath,T24S R8E S36 SENE,,Klamath,8/16/20 15:06,Lightning,1.75,
+2020,99 - Walker Range,Walker FPA,217,Cliff,T23S R9E S23 NENE,,Klamath,8/19/20 6:50,Lightning,0,
+2020,99 - Walker Range,Walker FPA,218,Porter,,,Klamath,8/26/20 8:20,Juveniles,0,
+2020,99 - Walker Range,Walker FPA,224,WR LTG,T24S R8E S9 SWSE,,Klamath,9/18/20 17:35,Lightning,0,
+2020,99 - Walker Range,Walker FPA,226,0,T23S R9E S34 NENE,A,Klamath,5/5/20 14:00,Debris Burning,0.02,0.02
+2020,99 - Walker Range,Walker FPA,227,Mohawk,T24S R8E S25 SENW,X,Klamath,5/6/20 16:20,Debris Burning,0.1,0.1
+2020,99 - Walker Range,Walker FPA,230,Early Bird 1,T24S R8E S32,,Klamath,5/29/20 5:37,Lightning,0,
+2020,99 - Walker Range,Walker FPA,231,CB 17,T25S R10E S2 SESW,,Klamath,5/29/20 6:37,Lightning,0.1,
+2020,99 - Walker Range,Walker FPA,232,CB GT 2-2,T24S R9E S12 NESE,,Klamath,5/29/20 8:49,Lightning,0.1,
+2020,99 - Walker Range,Walker FPA,233,Transient,T24S R9E S19 NENW,,Klamath,6/1/20 10:15,Miscellaneous,0,
+2020,99 - Walker Range,Walker FPA,234,MANZANITA STREET,T24S R9E S19 NESE,,Klamath,6/2/20 8:48,Debris Burning,0,
+2020,99 - Walker Range,Walker FPA,235,Hillcrest,T24S R9E S19 NESE,X,Klamath,6/2/20 11:11,Debris Burning,0,0
+2020,99 - Walker Range,Walker FPA,236,Willis,T23S R10E S19 NENW,X,Klamath,6/2/20 12:31,Debris Burning,0,0
+2020,99 - Walker Range,Walker FPA,237,Willis,T23S R10E S19 NENW,X,Klamath,6/2/20 12:30,Debris Burning,0,0
+2020,99 - Walker Range,Walker FPA,238,Leggett,T24S R9E S19 NESE,,Klamath,6/2/20 8:00,Debris Burning,0,
+2020,99 - Walker Range,Walker FPA,239,Paulson,T24S R9E S19 SENE,,Klamath,6/3/20 12:20,Debris Burning,0,
+2020,99 - Walker Range,Walker FPA,240,CB 7,T24S R9E S10 SWSE,,Klamath,6/3/20 20:47,Arson,0.1,
+2020,99 - Walker Range,Walker FPA,241,Riverpine,T23S R9E S14 SESE,,Klamath,6/4/20 9:19,Debris Burning,0,
+2020,99 - Walker Range,Walker FPA,242,Wildriver,T25S R8E S17 NESW,,Klamath,6/4/20 11:07,Debris Burning,0,
+2020,99 - Walker Range,Walker FPA,243,Split Rail,T23S R10E S27 NWSE,,Klamath,6/7/20 19:38,Debris Burning,0,
+2020,99 - Walker Range,Walker FPA,244,Blasted,T24S R9E S31 NWNW,,Klamath,6/11/20 8:34,Debris Burning,0,
+2020,99 - Walker Range,Walker FPA,245,Brewers Ranchos,T24S R7E S7 NESW,,Klamath,6/11/20 14:41,Debris Burning,0,
+2020,99 - Walker Range,Walker FPA,247,Airport Road,T24S R8E S25 NESE,,Klamath,6/13/20 8:05,Miscellaneous,0,
+2020,99 - Walker Range,Walker FPA,248,Crescent Meadows,T24S R6E S1 SENW,,Klamath,6/13/20 13:00,Debris Burning,0,
+2020,99 - Walker Range,Walker FPA,250,Processor,T23S R9E S9 NESE,,Klamath,6/23/20 10:45,Miscellaneous,0,
+2020,99 - Walker Range,Walker FPA,252,Bark,T24S R9E S30 NWNW,,Klamath,7/10/20 14:00,Miscellaneous,0,
