@@ -9,3 +9,4 @@ This contains projects from University of Michigan course. All projects using py
 
 * **Corvallis Oregon Air Quality 2020**
   - This project was created during the largest wildfires in Oregon history beginined on July 5th, 2020 . It has been one of the most destuctive on recod in the state of Oregon. More than **1,000,000 acres** (400,000 ha) of land, and thousands homes were destroyed. Oregon ranked No.1 for the worst air quality ever during that time. 
+![Image](https://github.com/duongnosu/DataScience_Plotting/blob/master/Plot_Oregon_AirQual_ForestFires/AS4.png)
